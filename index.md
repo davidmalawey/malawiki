@@ -1,0 +1,842 @@
+# Index
+
+Catalog of every page in this wiki. Updated on every ingest.
+
+## Overview
+
+- [[wiki/overview|Overview]] — rolling synthesis of the channel and wiki
+
+## Videos
+
+- [[wiki/videos/how-hardware-enshitification-occurs-and-how-easily-we-can-beat-it|how Hardware Enshitification occurs and how EASILY we can beat it]] (2026-05-01, 30:26) — hardware-enshittification thesis with Swiffer worked example and Doodlebug-mop alternative.
+- [[wiki/videos/how-to-prep-for-chemical-spills|How to Prep for Chemical Spills]] (2026-03-10, 13:05) — spill-mitigation workflow — Chemsorb shaker, volatile-cleanup bag, Honeywell HPA300 turbo flush.
+- [[wiki/videos/never-fold-clothes-again|Never Fold Clothes Again]] (2026-02-28, 11:39) — FIFO sock chutes, hook-bracket, closet-rod upgrade to galvanized fence top rail, lighting amplification.
+- [[wiki/videos/this-insole-design-is-healthier-longer-lasting-and-cheaper-diy|This Insole design is healthier, longer-lasting, and cheaper - DIY]] (2026-02-25, 12:02) — DIY cork-and-duck-cloth insole that outlasts retail; beeswax-lubricated utility knife.
+- [[wiki/videos/exoskeleton-design-control-of-fastener-torque|Exoskeleton Design & Control of Fastener Torque]] (2026-02-13, 23:21) — Dr. Langari's assist-as-needed exoskeleton — harmonic drives, EMG bio-signal control loop, breakaway torque method.
+- [[wiki/videos/checking-in-from-mexico-and-a-free-engineering-gift-for-my-audience|Checking in from Mexico and a free engineering gift for my Audience]] (2026-02-03, 15:05) — Cancun Home Depot tour; Inner Lights timer-switch retrofit; imperial-vs-metric pragmatism.
+- [[wiki/videos/innovations-underway-friction-welded-pvc-unistrut-slide-mechanism-structural-ste|Innovations underway - Friction Welded PVC, Unistrut Slide mechanism, Structural Steel tubes, & More]] (2026-01-24, 1:03:56) — structural-steel tubes, Unistrut locking-slide, ABS-on-PVC friction welding.
+- [[wiki/videos/how-to-design-a-functional-printable-open-source-mechanical-part|How to design a functional, printable, open source mechanical part]] (2025-12-09, 37:09) — sleeve part family — design-by-questions, parts-library publishing, press-fit for 608 bearing.
+- [[wiki/videos/highly-engineered-emt-conduit-parts-to-study-before-designing|Highly Engineered EMT Conduit Parts to Study Before Designing]] (2025-11-29, 43:10) — EMT conduit fittings as a design ecosystem — study-before-designing methodology.
+- [[wiki/videos/a-m-universitys-lab-burned-down-and-heres-what-i-learned|A&M University's Lab Burned Down and Here's What I Learned]] (2025-11-20, 26:31) — Texas A&M Kane Building 2018 fire — connector-corrosion-cycle, symptom-watch, share-the-failure.
+- [[wiki/videos/build-a-battery-adapter-to-power-the-whole-lab|Build a Battery Adapter to Power the Whole Lab]] (2025-11-15, 30:51) — Terminal V2 — open-source Ridgid 18 V battery → USB-C PD adapter; closing critique of Tesla.
+- [[wiki/videos/new-pardigm-for-engineering-how-we-pursue-all-the-dreams|New Paradigm for Engineering - How We Pursue All the Dreams]] (2025-11-06, 21:31) — documented-design-as-leverage and locally-sourced BOMs across SCUTTLE Malaysia.
+- [[wiki/videos/10-years-of-engineering-labs|10 Years of Engineering Labs]] (2025-11-05, 22:30) — tour of a decade of labs — MISL, PIC, metal AM lab, OpenLab, Brazilian and Malaysian sites.
+- [[wiki/videos/i-met-henry-fords-grandson-but-the-brazilian-engineers-taught-me-more|I Met Henry Ford's Grandson, but the Brazilian Engineers Taught Me More]] (2025-10-30, 32:29) — risk-tolerance-vs-abundance — Bill Ford vs. Brazilian engineers like Renato.
+- [[wiki/videos/expanded-pvc-for-engineering-designs-the-easiest-panel-in-fabrication|Expanded PVC for Engineering Designs - The Easiest Panel in Fabrication]] (2025-10-21, 37:39) — expanded PVC as preferred fabrication panel — zero-kerf cutting, standardized 6 mm thickness.
+- [[wiki/videos/i-applied-toyota-root-cause-analysis-to-the-sticky-lids-heres-my-solution|I Applied Toyota Root Cause Analysis to the Sticky Lids - Here's My Solution]] (2025-10-03, 20:18) — Grip-22 — Toyota root-cause-analysis applied to sticky lids, with PDCA validation.
+- [[wiki/videos/mechanical-design-tutorial-for-a-hub|Mechanical Design Tutorial for a Hub]] (2025-09-17, 20:58) — hub-zero — design-by-questions tutorial with three-point clamping for ball bearings.
+- [[wiki/videos/aluminum-extrusions-fundamentals|Aluminum Extrusions Fundamentals]] (2025-09-03, 34:20) — T-slot extrusion reference: nuts, cutting, brackets, Solid Works weldments workflow.
+- [[wiki/videos/dual-power-supply-for-electronics-prototyping-full-tutorial|Dual Power Supply for Electronics Prototyping [FULL TUTORIAL]]] (2025-08-29, 16:49) — USB-PD trigger board + buck regulator dual-rail bench supply.
+- [[wiki/videos/dont-suffocate-societys-innovators-inside-an-engineers-world|Don't suffocate society's innovators / inside an engineer's world]] (2025-08-15, 29:21) — local-maxima trap; Toyota ZR engine flywheel-bolt friction-coefficient deep dive.
+- [[wiki/videos/what-gpt5-is-doing-to-open-robotics-design-better-than-i-imagined|what GPT5 is doing to open robotics design - better than I imagined]] (2025-08-11, 15:59) — ChatGPT-5 generates a working belt-and-pulley simulation from a single prompt.
+- [[wiki/videos/this-is-why-you-cant-find-a-robotics-job-in-the-usa|This is why you can't find a Robotics Job in the USA]] (2025-08-04, 36:19) — Singapore/Malaysia overflow tech-investment compared to US robotics-job scarcity.
+- [[wiki/videos/fully-explained-build-test-setup-pwm-generator-dc-motor-driver-gearmotor|Fully Explained Build: Test Setup, PWM Generator, DC Motor Driver, Gearmotor]] (2025-07-29, 41:03) — PWM signal generator + dual H-bridge + DC gearmotor bench rig with Pinecil and Dupont-housings kit.
+- [[wiki/videos/just-sharing-my-thoughts-while-nigeria-lab-progresses-live-recording|Just sharing my thoughts while Nigeria Lab progresses (live recording)]] (2025-07-26, 30:00) — live recording on Dr. Nzebuka's Nigeria lab progress and the open-source extruder build.
+- [[wiki/videos/make-a-frankenstein-power-drill-treadmill-motor-controller-easy|Make a Frankenstein Power Drill Treadmill Motor Controller, Easy]] (2025-07-12, 37:20) — treadmill motor driven via cordless-drill battery + H-bridge trigger module.
+- [[wiki/videos/how-to-design-the-best-in-the-world|How to Design the Best in the World]] (2025-06-21, 23:33) — hex-bit rack on a forked open-source bearing, mounted to D-rail.
+- [[wiki/videos/every-engineering-lab-needs-rags|Every Engineering Lab needs Rags]] (2025-06-20, 28:52) — Labs Need Rags memo — rag-as-infrastructure laundry rotation for university labs.
+- [[wiki/videos/strategies-for-lab-workspace-design-of-lab-and-methods|strategies for lab workspace - design of lab and methods]] (2025-06-16, 41:26) — OpenLab workspace methodology — label discipline, drawer organization.
+- [[wiki/videos/how-to-design-a-3d-print-with-example-funtional-hinge|How to Design a 3D Print - (with example, functional Hinge)]] (2025-06-08, 41:00) — SCUTTLE hinge family — feature-tree naming, version-debossing, parametric variants.
+- [[wiki/videos/extruder-project-info-ft-gina-mechanical-engineer|Extruder Project Info - ft. Gina, Mechanical Engineer]] (2025-06-07, 5:42) — fundraiser pitch for FUTO Nigeria filament extruder, with collaborator Gina.
+- [[wiki/videos/we-usa-need-to-catch-up-with-the-developing-world-in-engineering|We (USA) need to catch up with the Developing World in Engineering]] (2025-05-30, 9:50) — Team Zamalik chili robot in Malaysia outpaces US student labs.
+- [[wiki/videos/a-working-model-for-an-undergrad-hands-on-engineering-lab-in-college|A working model for an Undergrad, Hands-on Engineering Lab in College]] (2025-05-26, 47:50) — Dr. Joseph Morgan's MISL lab as the multidisciplinary-lab-model template.
+- [[wiki/videos/the-lunchbox-pc-building-a-pc-in-2025|The Lunchbox PC - building a PC in 2025]] (2025-05-17, 1:01:32) — ITX gaming/CAD PC build with Angel Paredes — heat-pipe cooling, ASUS B650E-I.
+- [[wiki/videos/we-discovered-a-shape-and-its-not-a-big-deal|We discovered a shape and it's not a big deal]] (2025-04-28, 22:57) — bikini-bracket — ABS-on-PVC modular bracket using negative space between three tangent circles.
+- [[wiki/videos/how-real-experts-change-the-world-using-robotics|How real experts change the world using robotics]] (2025-04-25, 23:09) — vertical non-integration; SCUTTLE Nigeria's filament extruder build.
+- [[wiki/videos/embedded-computer-users-should-know-this-power-issue|Embedded Computer users Should Know this Power Issue]] (2025-03-20, 14:43) — USB-PD vs. legacy 5 V — invisible undersupply on Pi/BeagleBone.
+- [[wiki/videos/excessively-technical-video-about-a-vacuum-adapter|Excessively technical video about a vacuum adapter]] (2025-03-18, 31:14) — parametric vacuum-hose adapter spans brand-specific connector tapers.
+- [[wiki/videos/a-multidisciplinary-engineering-lab-tour-all-types-of-actuators|A Multidisciplinary Engineering Lab Tour - all types of actuators]] (2025-03-14, 1:14:33) — lab tour cataloging actuator types — H-bridges, 18650 cells, copper coils, LiFePO4.
+- [[wiki/videos/some-designs-fight-thermodynamics-some-designs-work-together|some designs fight thermodynamics, some designs work together]] (2025-02-27, 18:58) — thermodynamic-cooperation vs fighting it — graceful-degradation case studies.
+- [[wiki/videos/engineers-mistakes-debunked|Engineers' Mistakes (DEBUNKED)]] (2025-02-17, 24:37) — intention as the divider between mistake and improvement; Open ME Project as free-data leverage.
+- [[wiki/videos/dear-engineers-now-is-the-time-to-lead|Dear Engineers: NOW is the time to lead.]] (2025-01-22, 14:23) — engineers should lead public discourse on robotics/AI — Boston Dynamics critique, leadership-as-bottleneck.
+- [[wiki/videos/what-is-a-robot-engineer-explains|What is a robot? [engineer explains]]] (2024-12-11, 27:46) — what is a robot? sensor → controller → actuator loop vs. routine; ADC; sensor-resolution range.
+- [[wiki/videos/gain-5x-more-workspace-in-12-months-at-no-net-cost|Gain 5x more workspace in 12 months (at no net cost)]] (2024-12-10, 30:00) — real-estate thinking, blue-tape purge, red-tag events, cash-swap psychology, store-as-storage.
+- [[wiki/videos/powerful-tool-anyone-can-use-from-an-engineers-perspective|Powerful tool anyone can use - from an engineer's perspective]] (2024-12-02, 17:57) — data-as-authority — how a junior engineer's spreadsheet shifts institutional behavior.
+- [[wiki/videos/mindset-to-perform-200-output-an-organizing-method-uncut|Mindset to perform 200% output (an organizing method, uncut)]] (2024-11-28, 31:11) — uncut workshop reorganization — one-handed access, mass, kaizen, mounting interfaces.
+- [[wiki/videos/2024-steve-jobs-speech-commentary-tech-anxiety|2024 Steve Jobs Speech Commentary - tech anxiety]] (2024-11-13, 56:46) — Jobs's 2005 Stanford commencement annotated through David's career-risk lens.
+- [[wiki/videos/build-a-diy-power-supply-a-tutorial-using-openbox|Build a DIY power supply (a tutorial using openBox)]] (2024-10-20, 21:33) — OpenBox DIY DC power supply with Anderson Powerpoles and LiFePO4.
+- [[wiki/videos/how-to-drill-a-hole-in-metal-plastic-wood-and-laminate|How to Drill a Hole in Metal, Plastic, Wood, and Laminate]] (2024-10-17, 45:09) — drill-bit reference: step-drill, Forstner, spade, deburring; runout, speeds and feeds.
+- [[wiki/videos/tradesmen-outperform-engineers-dialogue-from-an-engineer|Tradesmen outperform engineers (dialogue from an engineer)]] (2024-10-13, 14:32) — tools-augment-not-replace philosophy and cross-disciplinary humility.
+- [[wiki/videos/refuel-butane-torches-a-deep-dive-to-solve-all-the-issues|Refuel butane torches (a deep dive to solve all the issues)]] (2024-10-11, 12:50) — psychrometrics and supercritical-fluid behavior of butane lighter cartridges.
+- [[wiki/videos/clean-up-cords-wires-in-projects|Clean up cords & wires in projects (for prototype or product level)]] (2024-09-27, 58:39) — cable management: zip-ties, spiral wrap, DIN rail, Dupont connectors, aluminum-extrusion wiring.
+- [[wiki/videos/design-enclosures-for-electronics-using-mechanical-mindset|Design enclosures for electronics (using mechanical mindset)]] (2024-09-11, 36:58) — enclosure design: benchmarking, project boxes, O-rings, wall thickness rules, water resistance.
+- [[wiki/videos/label-supplies-to-multiply-results|Label supplies to multiply results (knowledgebase, cash, time, effort)]] (2024-08-31, 24:10) — lab organization via 5S, color coding, and QR-indexed manuals.
+- [[wiki/videos/more-than-you-ever-wanted-to-know-about-your-homes-internet-fiber|More than you ever wanted to know about your home's internet fiber]] (2024-08-24, 1:07:16) — residential fiber-optic install with Peter — fusion splicing, OTDR, ONT, junction box.
+- [[wiki/videos/how-to-choose-an-adhesive|How to choose a bond based on material, method, and requirements]] (2024-08-23, 55:25) — exhaustive adhesive selection method — bonding types, datasheet reading, peel vs. shear.
+- [[wiki/videos/borrow-a-tolerance-mindset-for-designers|Borrow a Tolerance: Mindset for Designers]] (2024-08-15, 32:09) — design-philosophy talk on leveraging off-the-shelf precision.
+- [[wiki/videos/hack-a-soldering-iron-with-a-mechanical-engineer|Hack a Soldering Iron with a mechanical engineer]] (2024-08-12, 11:04) — using a thermostat-less soldering iron as a controllable heat source via steady-state heat conduction.
+- [[wiki/videos/insights-in-real-world-battery-energy-that-you-can-verify|Insights in REAL-WORLD battery energy that YOU can verify.]] (2024-07-31, 32:39) — verifying real battery capacity with a USB power meter — discharge profiles, BPC, DC solar charging.
+- [[wiki/videos/more-about-usb-than-you-ever-wanted-to-know|More about USB than you ever wanted to know]] (2024-07-25, 57:46) — USB cable / adapter teardowns, shared-bus pitfalls, QC vs PD.
+- [[wiki/videos/these-two-genius-designers-are-building-our-future|These two GENIUS designers are building our future.]] (2024-07-24, 10:45) — design-philosophy commentary on Joe Bowers and Zack Freedman as exemplars of digital-first hardware.
+- [[wiki/videos/more-than-you-ever-wanted-to-know-about-tape|More than you ever wanted to know about tape]] (2024-07-17, 1:10:39) — catalog of ~20 tape varieties and their engineering applications.
+- [[wiki/videos/2023-scuttle-montage|2023 SCUTTLE Montage]] (2024-07-19, 1:16) — music-only highlights reel of 2023 SCUTTLE work; the channel's most-shared SCUTTLE asset.
+- [[wiki/videos/oem-of-modules-how-dell-designs-nothing-and-major-products-are-open-source|OEM of Modules: How Dell designs 'nothing' and major products are open source]] (2024-07-04, 18:57) — Dell-as-modular-OEM analogy applied to robotics; component-to-design ratio.
+- [[wiki/videos/tapping-threads-in-extrusion-for-beginners|Tapping threads in Extrusion for Beginners]] (2024-07-02, 4:08) — hand-tap workflow for 2020/3030 extrusion ends; chip-break tapping.
+- [[wiki/videos/modify-a-screwdriver-for-electronics-mechatronics|modify a screwdriver for electronics, mechatronics]] (2024-06-26, 4:07) — file down a Phillips zero so the bit fits real terminal screws; design-intent reading.
+- [[wiki/videos/tutorial-modeling-and-mindset-for-a-parametric-bracket-solidworks|Tutorial: modeling and mindset for a parametric bracket (SOLIDWORKS)]] (2024-06-08, 6:48) — parametric-bracket walk-through emphasizing design intent over hard dimensions.
+- [[wiki/videos/open-source-hardware-is-evolving|Open Source Hardware is Evolving]] (2024-05-15, 29:41) — standards = open source; modular Echo trimmer, Dell, SCUTTLE business model.
+- [[wiki/videos/think-simple-mobile-robot-mobile-sensor|THINK SIMPLE! (mobile robot = mobile sensor)]] (2024-05-10, 5:18) — paradigm shift: scope mobile robots as data carriers, not manipulators.
+- [[wiki/videos/disassemble-molex-kk-close-up-connector|Disassemble Molex KK (close-up) Connector]] (2024-02-24, 5:13) — pin geometry close-up; compliance clamping; datasheet vs. real-world fit.
+- [[wiki/videos/opengrow-aquaponics-design-tested-validated-with-cad-model|OpenGrow Aquaponics Design (tested & validated) with CAD model]] (2024-01-17, 2:57) — single-pump aquaponics; engineered water levels eliminate redundant pumps.
+- [[wiki/videos/when-we-are-stuck-and-lost|When we are stuck and lost]] (2024-01-05, 20:54) — values → guides → activities mapping; anchor-and-rope metaphor for direction.
+- [[wiki/videos/what-is-democratization-of-technology|What is democratization of technology?]] (2023-12-17, 13:23) — democratic vs. economic force; tech-to-needs framing.
+- [[wiki/videos/multidisciplinary-design-optimization-2016-masters-thesis-presentation|Multidisciplinary Design Optimization - 2016 Masters Thesis Presentation]] (2023-12-15, 30:01) — David's MDO thesis: GA + SQP, Pareto front, FEA convergence, N² coupling.
+- [[wiki/videos/pneumatic-air-battery|Pneumatic air battery]] (2023-11-25, 11:29) — fire-extinguisher vessel + NPT taps as portable air reservoir for SCUTTLE.
+- [[wiki/videos/optimal-robot-ecosystem|Optimal Robot Ecosystem]] (2023-11-24, 18:01) — SCUTTLE design philosophy essay — kaizen, parts-ecosystem, locally-sourced BOM.
+- [[wiki/videos/realize-commoditization-of-designs|Realize Commoditization of Designs]] (2023-11-24, 5:32) — companion essay; design-for-3D-printing as virgin design space.
+- [[wiki/videos/what-is-a-parametric-design-with-solidworks-example|What is a Parametric Design? (with SOLIDWORKS example)]] (2023-11-21, 17:25) — characterize → digitize → parametrize on a 1/4-20 ball mount.
+- [[wiki/videos/soldering-strain-gauges-with-aniket-mmet-lab|Soldering Strain Gauges with Aniket - MMET lab]] (2023-10-25, 2:31) — TA-led instrumentation lab; flux-melt tip verification.
+- [[wiki/videos/how-to-capture-text-from-a-screenshot-snip-using-sharex|How to Capture Text from a Screenshot (snip) using ShareX]] (2023-08-19, 1:10) — hotkey-bound OCR productivity pattern.
+- [[wiki/videos/3d-printed-bearing-with-nylon-balls|3D Printed Bearing with Nylon Balls]] (2023-06-25, 1:36) — OpenSpin worked-placeholder bearing; accessibility through documentation.
+- [[wiki/videos/human-inspired-bio-inspired-ideas-missing-in-modern-robots|Human-inspired / Bio-inspired Ideas MISSING in Modern Robots]] (2023-06-16, 12:15) — six-principle bio-inspired dynamics framework foreshadowing OpenArm.
+- [[wiki/videos/scuttle-robot-v3-0-assembly-animated|SCUTTLE Robot v3.0 Assembly, Animated]] (2023-04-13, 1:52) — animated overview of v3.0 mechanical assembly.
+- [[wiki/videos/how-to-crimp-quick-disconnects-spade-terminals|How to Crimp Quick Disconnects (spade terminals)]] (2023-03-22, 4:22) — Gardner Bender GS-388 crimper; tug test, crimp orientation, wire-gauge selection.
+- [[wiki/videos/how-to-make-nice-graphics-in-draw-io-for-diagrams|How to Make Nice Graphics in Draw.io for diagrams]] (2023-03-20, 7:49) — draw.io workflow with imgur image library and shared scratchpad.
+- [[wiki/videos/strip-round-cables-without-damaging-insulation|Strip round cables without damaging insulation]] (2023-03-16, 3:13) — universal cable stripper for round multi-conductor cable.
+- [[wiki/videos/spraymaster-3d-printable-open-design|SprayMaster 3D Printable Open Design]] (2023-02-23, 1:43) — sub-$25 SCUTTLE accessory; laser pointer, 12V relay, linear actuator.
+- [[wiki/videos/how-to-deboss-a-dynamic-revision-number-for-3d-prints-solidworks|How to DeBoss a Dynamic Revision Number for 3D Prints (Solidworks)]] (2023-01-20, 1:45) — property-linked debossed revision text on FDM parts.
+- [[wiki/videos/payload-deck-demo-on-scuttle-robot|Payload Deck Demo on SCUTTLE Robot]] (2023-01-17, 0:47) — short showing the payload deck running on SCUTTLE.
+- [[wiki/videos/how-to-crimp-ferrules-and-what-goes-wrong|How to Crimp Ferrules (and what goes wrong)]] (2023-01-13, 3:28) — Iwiss HSC 86-6A "iron sphincter" hex crimper; ferrule prevents stranded copper spread.
+- [[wiki/videos/how-not-to-use-flush-cutters|How NOT to use Flush Cutters]] (2023-01-12, 2:35) — yes/no taxonomy of materials safe vs. unsafe to flush-cut; magnet test for ferrous.
+- [[wiki/videos/how-to-crimp-dupont-terminals-and-why-you-shouldnt|How to crimp Dupont Terminals, and why you SHOULDNT]] (2023-01-11, 3:28) — Dupont crimping plus female-on-wire and multi-housing rules; Futaba pre-crimped alternative.
+- [[wiki/videos/how-to-crimp-anderson-connectors|How to Crimp Anderson Connectors]] (2023-01-07, 5:00) — 15A/30A/45A dies, tongue-down die orientation rule, housing assembly tug test.
+- [[wiki/videos/the-us-government-eliminated-software-engineering-category-of-jobs|The US government eliminated Software Engineering Category of jobs]] (2022-12-16, ~5:00) — BLS OOH dropped "computer software engineer"; software-as-tool framing.
+- [[wiki/videos/3-ways-to-test-power-draw-for-mechatronics-designs|3 Ways to test Power Draw for mechatronics designs]] (2022-12-14, 10:38) — CBA + Powerwerx + USB power meter; delta-power-measurement, clip-before-power-rule.
+- [[wiki/videos/economics-of-mechanical-designs-part-2|Economics of Mechanical Designs (Part 2)]] (2022-12-02, ~6:30) — digital manufacturing as software-economics; modularity + parametric design pay off.
+- [[wiki/videos/economics-of-mechanical-design-part-1|Economics of Mechanical Design (Part 1)]] (2022-12-02, ~3:00) — prototype / product / commodity spectrum; PVC vs. PLA cost framing.
+- [[wiki/videos/power-budget-explained-mechatronics-capstone-projects|Power Budget Explained (Mechatronics Capstone Projects)]] (2022-11-20, ~14:00) — spreadsheet-driven power-budget method; UV-sanitizer SCUTTLE worked example.
+- [[wiki/videos/what-screws-to-use-in-your-3d-print|What screws to use in your 3D Print]] (2022-11-18, 11:46) — heat-set insert installation; parametric screw library; tolerances per fastener type.
+- [[wiki/videos/loads-of-stuff-you-can-add-to-a-12v-robot|Loads of stuff you can add to a 12v robot!]] (2022-11-17, 8:24) — DC-DC, USB-PD trigger, solar charging — accessory survey for 12V SCUTTLE bus.
+- [[wiki/videos/loading-50-watts-on-cheap-dc-boost-converter-quick-test|Loading 50 Watts on Cheap DC Boost Converter - Quick Test]] (2022-11-02, ~4:30) — bench test of cheap boost converter; instrument-resolution and share-the-failure.
+- [[wiki/videos/build-a-payload-robot-start-to-finish-scuttle-v2-4|Build a payload robot start to finish! - SCUTTLE v2.4]] (2022-10-31, ~40:00) — v2.4 dense end-to-end build; symmetric-not-identical part discipline.
+- [[wiki/videos/design-for-manufacturing-polymer-fdm-part-1|Design for Manufacturing: Polymer FDM (Part 1)]] (2022-06-20, ~14:00) — DFM for FDM — teardrop holes, three-point clamping, tolerances.
+- [[wiki/videos/build-a-deck-for-cargo-bins|Build a Deck for Cargo Bins]] (2022-04-09, 4:30) — Brey Caraway's payload deck — twist-and-nub blocks + acrylic + 3030 extrusion.
+- [[wiki/videos/reduce-the-dead-band-from-your-dc-motors-with-this-function|Reduce the Dead Band from your DC Motors with this Function]] (2022-02-12, ~8:00) — SCUTTLE motor.pi "compress" function; piecewise duty-cycle mapping.
+- [[wiki/videos/which-lubricant-is-safe-on-rubber|Which lubricant is SAFE on RUBBER?]] (2022-01-09, 5:30) — rubber-band durability bench test across silicone, WD-40, CRC, Ballistol.
+- [[wiki/videos/simple-3d-printed-bracket-for-mounting-rplidar-a1-lidar-on-robot|Simple 3D Printed Bracket for Mounting RPLIDAR A1 Lidar on Robot]] (2021, ~4:00) — open-source bracket for RPLIDAR A1 on 30mm aluminum extrusion.
+- [[wiki/videos/scuttle-robot-press-in-wheel-bearings-and-glue-pulleys|SCUTTLE Robot - press in wheel bearings and glue pulleys]] (2021, ~7:00) — M8-bolt-as-press technique; CA-glue-on-urethane wheel-pulley bond verification.
+- [[wiki/videos/program-a-plc-with-conveyor-arduino-and-industrial-robot-part-2|Program a PLC with Conveyor, Arduino and Industrial Robot (Part 2)]] (2021, ~5:00) — manual-override coexistence: PLC relay in series with existing manual switch.
+- [[wiki/videos/program-a-plc-with-conveyor-arduino-and-industrial-robot|Program a PLC with Conveyor, Arduino and Industrial Robot]] (2021, ~30:00) — MXET 400 demo: P1AM + Productivity Blocks + ESP8266 + UR3e + Dorner conveyor.
+- [[wiki/videos/how-much-cpu-does-it-take-to-generate-pwm-signals-on-raspberry-pi|How much CPU does it take to generate PWM signals on Raspberry Pi]] (2021, ~7:00) — software-PWM cost benchmark using htop on a Pi running SCUTTLE.
+- [[wiki/videos/scuttle-robot-soldering-breadboards-for-i2c-bus|SCUTTLE Robot - Soldering Breadboards For I2C Bus]] (2021, ~3:00) — header-pin soldering and intentional solder bridging on the I2C bus PCB.
+- [[wiki/videos/how-to-connect-a-hobby-esc-speed-control-to-raspberry-pi-drive-a-12v-dc-motor-bi|How to connect a Hobby ESC (speed control) to raspberry Pi - drive a 12v DC motor]] (2021, ~9:00) — RC-grade ESC driven by 50 Hz hobby PWM from a Pi via Python and a USB gamepad.
+- [[wiki/videos/testing-out-nvidia-isaac-sdk-and-isaac-sim-for-robotics-on-pc|Testing Out NVIDIA Isaac SDK and Isaac Sim for Robotics (On PC)]] (2020-12-03, 8:08) — NVIDIA Isaac SDK + Sim trial on the lunchbox PC; sim-to-real handoff for SCUTTLE.
+- [[wiki/videos/scuttle-robot-cad-revisions-watch-before-downloading-stl-files|SCUTTLE Robot CAD Revisions - Watch Before Downloading STL Files]] (2020-11-23, 5:36) — semver for hardware; v2.3 release discipline.
+- [[wiki/videos/scuttle-robot-hardware-list-fasteners-screws-nuts-washers|SCUTTLE Robot - Hardware List (Fasteners, Screws, Nuts, Washers)]] (2020-11-23, 3:15) — M2.5 brass heat-set, M6 t-slot, 2020 extrusion BOM.
+- [[wiki/videos/solidworks-2019-create-configurations-with-various-pattern-instances|SolidWorks 2019 - Create Configurations with Various Pattern Instances]] (2020-11-21, 4:06) — global-variable-driven pattern, configuration tables.
+- [[wiki/videos/testing-our-12v-dc-motors-with-a-10-watt-solar-panel|Testing Our 12V DC Motors with a 10 Watt Solar Panel]] (2020-11-15, 1:37) — 10 W panel field test; can it spin SCUTTLE's gearmotors directly.
+- [[wiki/videos/solidworks-recognize-features-manually-tutorial-with-example|Solidworks Recognize Features Manually (Tutorial with Example)]] (2020-10-17, 8:16) — manual feature-recognition on imported STEP for parametric editing.
+- [[wiki/videos/can-we-power-scuttle-robot-100-using-22-worth-of-solar-panels|Can we power SCUTTLE robot 100% using $22 worth of solar panels?]] (2020-10-17, 7:38) — $22 solar feasibility test in Malaysia; SCUTTLE solar concept.
+- [[wiki/videos/design-a-compliant-clamp-in-solidworks-2020-for-3d-printing-part1|Design a compliant clamp in Solidworks 2020 for 3D Printing (part1)]] (2020-10-16, 19:57) — compliance clamping; SCUTTLE conveyor mounting clamp.
+- [[wiki/videos/flashforge-creator-pro2-setup-first-print-in-4k-resolution|Flashforge Creator Pro2 Setup & First Print (in 4K resolution)]] (2020-10-13, 40:02) — IDEX Creator Pro 2 unbox; poka-yoke; physical-testing-vs-FEA.
+- [[wiki/videos/iot-using-mqtt-on-esp8266-set-your-client-id-or-autogenerate-credentials|IoT using MQTT on ESP8266 - set your client ID or autogenerate credentials]] (2020-10-11, 7:25) — Arduino MQTT library client-ID gotcha; root-cause walkthrough.
+- [[wiki/videos/should-we-make-an-iot-racetrack-for-scuttle-bots-on-bots|Should we make an IOT racetrack for SCUTTLE? Bots on Bots?]] (2020-10-01, 1:09) — bots-on-bots IoT slot-car-track project pitch.
+- [[wiki/videos/scuttle-robot-how-much-power-does-it-use-about-7w|SCUTTLE Robot - how much power does it use? About 7w.]] (2020-09-30, 4:58) — 7 W power measurement on a 3-cell LiPo pack.
+- [[wiki/videos/scuttle-robot-autonomous-docking-by-machine-vision-for-wireless-charging|SCUTTLE Robot - Autonomous Docking by machine vision for Wireless Charging]] (2020-09-24, 11:44) — Nextec capstone wireless dock; vision + RFID + Cayenne.
+- [[wiki/videos/scuttle-robot-choosing-mqtt-topics-for-mobile-robot-iot-guide-preliminary|SCUTTLE Robot - Choosing MQTT topics for mobile robot, IoT Guide (preliminary)]] (2020-09-22, 5:06) — MQTT topic-naming for SCUTTLE; preliminary IoT guide.
+- [[wiki/videos/scuttle-robot-iot-in-all-forms-esp-pc-mobile-phone-raspi-demo-with-buzzer|SCUTTLE Robot - IoT in ALL FORMS!  ESP / PC / Mobile Phone / RasPi / demo with BUZZER]] (2020-09-20, 23:30) — four heterogeneous MQTT clients drive a buzzer demo.
+- [[wiki/videos/strippers-crimpers-snippers-tool-rack-3d-printed-custom-for-all-electronics-tool|Strippers, Crimpers, Snippers tool rack 3D Printed custom for all electronics tools used on SCUTTLE]] (2020-09-17, 0:54) — custom 3D-printed electronics-tool rack timelapse.
+- [[wiki/videos/why-i-use-black-hot-glue-sticks-for-electronics|Why I Use Black Hot Glue Sticks for Electronics]] (2020-09-14, 7:23) — black hot-glue rationale; free-upgrades framing; Toyota 5S.
+- [[wiki/videos/scuttle-robot-build-motor-driver-signal-wires-jst-zh-macro-view-for-beagle|SCUTTLE Robot - Build Motor Driver Signal Wires JST-ZH Macro View for Beagle]] (2020-09-12, 5:24) — JST-ZH-to-Dupont motor PWM harness build.
+- [[wiki/videos/scuttle-robot-setup-vscode-to-connect-to-pi-and-edit-software-cloud9-alternative|SCUTTLE Robot - setup vscode to connect to pi and edit software (cloud9 alternative)]] (2020-09-09, 4:13) — VS Code + SFTP as Cloud9 replacement.
+- [[wiki/videos/scuttle-robot-nodered-function-to-extract-each-gamepad-axis-display|SCUTTLE Robot - nodered function to extract each gamepad axis & display]] (2020-09-09, 7:20) — Node-RED function node parses gamepad CSV.
+- [[wiki/videos/scuttle-robot-plot-gamepad-values-in-nodered-via-txt-file|SCUTTLE Robot - plot gamepad values in nodered via txt file]] (2020-09-06, 6:35) — file-as-IPC; gamepad axis plotting in Node-RED.
+- [[wiki/videos/scuttle-robot-nodered-receive-mqtt-message-save-to-csv|SCUTTLE Robot - nodered receive MQTT message save to CSV]] (2020-09-04, 5:36) — MQTT subscribe → CSV; phone-to-robot direction.
+- [[wiki/videos/scuttle-robot-nodered-read-csv-to-send-mqtt|SCUTTLE Robot - nodered read CSV to send MQTT]] (2020-09-03, 5:57) — CSV → MQTT publish; robot-to-phone direction.
+- [[wiki/videos/scuttle-robot-unbox-solder-mount-encoder-pcb-to-bracket|SCUTTLE Robot - unbox, solder, mount encoder PCB to bracket]] (2020-09-01, 5:30) — encoder PCB hand-population; v2.4 bracket; diametric-magnet pickup.
+- [[wiki/videos/scuttle-robot-insert-the-bearings-in-new-wheels|SCUTTLE Robot - Insert the Bearings in New Wheels]] (2020-08-24, 2:04) — torque-evaluation press-fit of 608 bearings into printed wheels.
+- [[wiki/videos/improve-a-cheap-soldering-cleaner|Improve a cheap soldering cleaner]] (2020-08-24, 0:50) — Harbor Freight $3 dish + silicone retrofit.
+- [[wiki/videos/scuttle-robot-prep-your-axle-hole-wear-a-helmet|SCUTTLE Robot - prep your axle hole - wear a helmet]] (2020-08-21, 2:20) — 8 mm metric drill chase; stress-concentration helmet metaphor.
+- [[wiki/videos/which-adhesive-works-best-on-rubber-round-2-one-winner|Which adhesive works best on rubber? Round 2 - One Winner]] (2020-08-16, 4:04) — cyanoacrylate wins by tearing the rubber; surface-prep speculation.
+- [[wiki/videos/which-adhesive-works-best-on-rubber|Which adhesive works best on rubber?]] (2020-08-12, 3:49) — round 1 — no winner; "lessons archive, not production studio" framing.
+- [[wiki/videos/scuttle-robot-how-the-magnetometer-sensor-compass-works|SCUTTLE Robot - how the magnetometer sensor (compass) works]] (2020-07-28, 7:56) — MPU-9250 magnetometer calibration on BeagleBone Blue.
+- [[wiki/videos/navigationvectors-part2-curve-criteria|NavigationVectors part2: curve criteria]] (2020-06-26, 16:08) — threshold-switching control between straight and curve modes.
+- [[wiki/videos/navigationvectors-part1-global-position-increment|NavigationVectors part1: global position increment]] (2020-06-26, 14:15) — differential-drive kinematics + rotation matrix + pose integration.
+- [[wiki/videos/hot-hot-sun-at-sedili-besar-coast-in-malaysia-june-2020|Hot hot sun at Sedili Besar Coast in Malaysia, June 2020]] (2020-06-07, 0:27) — short personal travel vlog from the Malaysian coast.
+- [[wiki/videos/snail-struggles-during-quarantine-2020|Snail struggles during quarantine 2020]] (2020-03-25, 0:30) — light pandemic-era personal vlog.
+- [[wiki/videos/scuttle-robot-nextec-team-tests-computer-vision-docking|Scuttle Robot - Nextec team tests computer vision docking]] (2019-11-26, 2:15) — Nextec capstone vision-docking precursor; apparent-size ranging.
+- [[wiki/videos/scuttle-robot-demonstration-for-reading-gpio-input-on-beaglebone-blue-with-l1-gp|SCUTTLE Robot - Demonstration for reading GPIO Input on Beaglebone Blue with L1_gpio.py]] (2019-11-20, 1:56) — GPIO input pull-down demo; GP1-as-debug-port.
+- [[wiki/videos/scuttle-robot-multithreading-explained-with-demonstration-speed-control-text-to-|SCUTTLE Robot - Multithreading Explained with Demonstration]] (2019-11-19, 6:39) — multithreading-as-cooperation; speed control + TTS in parallel.
+- [[wiki/videos/scuttle-robot-control-gpio-outputs-on-the-beaglebone-blue-with-led-demo|SCUTTLE Robot - Control GPIO Outputs on the BeagleBone Blue with LED Demo]] (2019-11-19, 2:27) — GPIO output via L1_gpio; GP1 user-LED mirroring.
+- [[wiki/videos/scuttle-robot-build-anderson-powerpole-12v-distributor|SCUTTLE Robot - Build Anderson Powerpole 12v Distributor]] (2019-11-17, 0:28) — recipe-style 12V distributor build.
+- [[wiki/videos/scuttle-robot-ready-designs-for-easy-3d-printable-attachments|SCUTTLE Robot - Ready Designs for Easy 3D Printable Attachments]] (2019-11-15, 5:40) — six pre-designed servo brackets recombine into joints.
+- [[wiki/videos/scuttle-robot-fasten-lidar-to-the-chassis|SCUTTLE Robot - Fasten Lidar to the Chassis]] (2019-11-13, 2:47) — SICK TiM561 mounted with M6 t-slot bolts and M3 fasteners.
+- [[wiki/videos/scuttle-robot-upgrade-i2c-bracket-for-new-pcb-retrofit-by-gluing|SCUTTLE Robot - Upgrade i2C bracket for new PCB (retrofit) by gluing]] (2019-11-12, 0:40) — quick PVC-cement bracket retrofit on ABS.
+- [[wiki/videos/scuttle-robot-sick-lidar-sensor-scans-for-nearest-obstacle|SCUTTLE Robot - SICK Lidar Sensor Scans for Nearest Obstacle]] (2019-11-10, 1:15) — SICK TiM561 + BeagleBone Blue + Node-RED dashboard.
+- [[wiki/videos/scuttle-robot-intro-to-software-architecture|SCUTTLE Robot - Intro to Software Architecture]] (2019-11-07, 4:44) — L1/L2/L3 layered architecture; explicit signal labeling.
+- [[wiki/videos/scuttle-robot-servo-arm-design-v1-overview-using-pvc-3d-prints-and-low-cost-part|SCUTTLE Robot - Servo Arm Design V1 Overview]] (2019-10-26, 9:45) — two-joint servo arm; PVC + 3D-printed brackets + 608 bearings + counterweight.
+- [[wiki/videos/scuttle-robot-how-proportional-feedback-control-is-implemented-kp|SCUTTLE Robot - How Proportional Feedback Control is Implemented (kp)]] (2019-10-03, 7:36) — Kp gain via Node-RED slider; control-oscillation demo.
+- [[wiki/videos/scuttle-robot-export-flow-from-node-red-import|SCUTTLE Robot - Export Flow from Node Red & Import]] (2019-09-26, 2:20) — Node-RED export/import workflow re-cut.
+- [[wiki/videos/scuttle-robot-export-nodered-flow|SCUTTLE Robot - Export NodeRed flow]] (2019-09-25, 4:40) — first Node-RED telemetry-export tutorial; source-linked Gist.
+- [[wiki/videos/scuttle-robot-crimp-anderson-connectors-build-12v-splitter-harness|SCUTTLE Robot - Crimp Anderson Connectors & Build 12v Splitter Harness]] (2019-09-12, 3:59) — Anderson 15A crimping; tinning-stranded-wire on screw terminals.
+- [[wiki/videos/scuttle-robot-check-boot-drive-space-in-debian-on-beaglebone-blue|SCUTTLE Robot - Check boot drive space in Debian on Beaglebone Blue]] (2019-09-04, 3:01) — fdisk/df reference; SCUTTLE self-installer SD-card expansion.
+- [[wiki/videos/scuttle-robot-beaglebone-blue-setup-wpa-enterprise-wifi|SCUTTLE Robot - Beaglebone Blue setup WPA enterprise WiFi]] (2019-08-26, 4:13) — wpa_supplicant config for TAMU `tamulink-wpa`; raw-GitHub-paste workflow into Cloud9.
+- [[wiki/videos/scuttle-robot-open-loop-vs-closed-loop-speed-control|SCUTTLE Robot - open loop vs closed loop speed control]] (2019-08-09, 1:16) — open-loop control vs closed-loop feedback; integral-windup and PID intuition.
+- [[wiki/videos/scuttle-robot-send-receive-mqtt-messages-display-with-nodered-on-beaglebone-blue|SCUTTLE Robot - Send & Receive MQTT messages, display with Node-RED]] (2019-07-24, 6:34) — HiveMQ + Node-RED dashboard; MQTT topic wildcards and QoS.
+- [[wiki/videos/scuttle-robot-check-your-wifi-ssid-over-usb-on-beaglebone-blue|SCUTTLE Robot - check your wifi SSID over USB on Beaglebone Blue]] (2019-07-19, 2:03) — soft-AP discovery + journalctl-grep debugging via SSH-over-USB.
+- [[wiki/videos/3d-printed-laminar-flow-nozzle-construction|3D Printed Laminar Flow Nozzle Construction]] (2019-06-21, 2:45) — laminar-flow nozzle assembled with ABS cement; 3D-print porosity sealing via solvent welding.
+- [[wiki/videos/adhesives-for-small-gaps|Adhesives for Small Gaps]] (2019-06-20, 0:54) — Pro Weld and gap-filling adhesion; brush applicator for solvent welding.
+- [[wiki/videos/combine-two-bodies-in-solidworks|Combine Two Bodies in Solidworks]] (2019-06-20, 5:26) — multibody-modeling and the merge-result toggle on revolve/extrude features.
+- [[wiki/videos/how-to-crimp-2-54mm-dupont-connectors-macro-view|How to Crimp 2.54mm DuPont connectors (macro view)]] (2019-06-12, 7:14) — macro DuPont crimping for Mechatronics audience; reinforces multi-contact-housing rule and tug test.
+- [[wiki/videos/introduction-to-quantam-import-parts-set-up-a-build|Introduction to QuantAM - import parts & set up a build]] (2019-06-12, 4:21) — Renishaw QuantAM build-prep walkthrough; stripe scan pattern, support generation, stainless-steel profile.
+- [[wiki/videos/renishaw-am400-should-this-thing-be-loose|Renishaw AM400 - Should this thing be loose?]] (2019-03-18, 1:41) — substantive metal-AM tour around an oxygen-sensor / argon-purge inspection on the AM400.
+- [[wiki/videos/scuttle-robot-how-to-run-color-tracking-v1-py-computer-vision-program|SCUTTLE Robot - How to run color_tracking_v1.py]] (2019-03-08, 4:08) — OpenCV color-tracking v1; apparent-size ranging + threshold-switching control.
+- [[wiki/videos/scuttle-robot-using-matlab-gui-v1-1|SCUTTLE Robot - using Matlab GUI v1.1]] (2019-03-05, 4:03) — MATLAB-built telemetry/keyboard SCUTTLE GUI; manual-override coexistence; MATLAB Runtime install.
+- [[wiki/videos/scuttle-robot-cut-i2c-circuit-board|Scuttle Robot - Cut i2c circuit board]] (2019-02-26, 0:35) — protoboard grid cutting using silkscreen letters as a fab guide.
+- [[wiki/videos/scuttle-robot-i2c-bracket-v1-2|Scuttle Robot - i2c bracket v1.2]] (2019-02-26, 1:03) — clip-onto-extrusion mounting; pin-clearance shelf; M2 fasteners.
+- [[wiki/videos/scuttle-robot-secure-your-beaglebone-blue|Scuttle Robot - secure your Beaglebone Blue]] (2019-02-26, 1:38) — screw-as-spring with sleeve compression; clip-before-power rule when removing the BBB.
+- [[wiki/videos/scuttle-robot-fastest-way-to-check-battery-voltage-on-beaglebone-blue|SCUTTLE Robot - fastest way to check battery voltage on Beaglebone Blue]] (2019-02-20, 1:51) — `rc_battery_monitor` live-telemetry CLI; sudo-required utility, ssh tab-completion discovery.
+- [[wiki/videos/dont-destroy-your-18650-cells-use-this-analogy-to-understand|Don't destroy your 18650 cells! Use this Analogy to understand.]] (2019-02-13, 6:14) — cups-of-water cell analogy; series cell balancing, C-rate, individual-cell charging.
+- [[wiki/videos/scuttle-robot-wheel-slip-with-unlevel-chassis|Scuttle Robot - Wheel Slip with unlevel chassis]] (2019-02-12, 0:23) — wheel-slip diagnosis as a chassis-leveling signal.
+- [[wiki/videos/scuttle-robot-soldering-the-i2c-bus-board|Scuttle Robot - soldering the i2c bus board]] (2019-02-08, 1:33) — plastic-as-temporary-fixture trick to tack headers vertical without helping hands.
+- [[wiki/videos/scuttle-robot-assembling-wheels-and-belt|Scuttle Robot - assembling wheels and belt]] (2019-02-07, 3:17) — assembly sequencing; borrowing tolerances from M8 axle bolt; symptom-watch on belt tension.
+- [[wiki/videos/scuttle-robot-gluing-the-wheel-pulleys-version-1-0|Scuttle Robot - Gluing the Wheel Pulleys (VERSION 1.0)]] (2019-02-05, 5:06) — super-glue press-fit on skateboard wheels; squeeze-out verification; three-point clamping.
+- [[wiki/videos/scuttle-robot-modifying-the-wheel-pulley-in-solidworks|Scuttle Robot - Modifying the Wheel Pulley in Solidworks]] (2019-02-05, 6:15) — convert-entities, circular-pattern, feature-tree naming, version-marking on a parametric pulley.
+- [[wiki/videos/anatomy-of-dupont-connector-2-54mm-connector-how-to-crimp|Anatomy Of DuPont Connector (2.54mm Connector), How To Crimp]] (2019-02-04, 4:06) — connector-anatomy pedagogy; strip-then-trim; introduces the dupont-crimping technique distinct from generic crimping.
+- [[wiki/videos/epoxy-failed-on-abs|Epoxy failed on ABS]] (2019-02-01, 0:42) — peel-vs-shear failure on FDM ABS; share-the-failure framing for the 2024 adhesive selection framework.
+- [[wiki/videos/soldering-leads-on-12v-dc-motors-18awg-and-heat-shrink|Soldering Leads on 12V DC Motors (18awg) and heat shrink]] (2019-01-30, 4:58) — flush-die motor-terminal soldering; tip-temperature-by-flux-melt; helping hands.
+- [[wiki/videos/scuttle-battery-pack-assembly-wire-lengths|Scuttle Battery Pack - assembly & wire lengths]] (2019-01-29, 3:43) — wire-length specification; 18 AWG strain relief; threaded-insert install.
+- [[wiki/videos/scuttle-battery-pack-crimping-insulated-terminals|Scuttle Battery Pack - Crimping Insulated Terminals]] (2019-01-29, 4:44) — insulated-terminal crimper; insulation-shoulder as depth gauge; one-handed-crimp rule.
+- [[wiki/videos/scuttle-battery-pack-heat-set-inserts|Scuttle Battery Pack - heat-set inserts]] (2019-01-29, 2:56) — McMaster M2.5 brass inserts; just-shy-of-flush rule.
+- [[wiki/videos/scuttle-robot-battery-pack-soldering-the-bottom-side|Scuttle Robot - Battery Pack - soldering the bottom side]] (2019-01-29, 4:52) — heat-the-joint-not-the-solder; rosin-flux-pen priming; U-shape strand prep.
+- [[wiki/videos/scuttle-wiring-power-wires-overview|Scuttle Wiring - Power Wires Overview]] (2019-01-29, 2:18) — system power distribution; tinning stranded wire onto screw terminals; cable management.
+- [[wiki/videos/scuttle-robot-hardware-overview|SCUTTLE robot hardware overview]] (2019-01-17, 9:36) — SCUTTLE v1.0 hardware kit; color-coded hex keys (poka-yoke); screw-measurement conventions.
+- [[wiki/videos/scuttle-robot-printed-parts-orientations|Scuttle Robot - Printed Parts & Orientations]] (2019-01-16, 10:57) — 45-degree-overhang rule; print-direction; SCUTTLE universal bracket needs supports.
+- [[wiki/videos/novel-aquaponics-method-1st-year-summary-suspended-media-method|Novel Aquaponics Method 1st Year summary - Suspended Media Method]] (2018-10-30, 36:21) — predecessor of OpenGrow; single-pump CHOP; gravity-overflow pressure regulation; air-pruning; glue-free PVC.
+
+## Series
+
+*(no series pages yet — see batch ingest log for SCUTTLE international and Open* family series-page proposals)*
+
+## Entities
+
+### People
+
+- [[wiki/entities/people/david-malawey|David Malawey]] — host; mechanical engineer; ex-Toyota; Texas A&M; SCUTTLE lead.
+- [[wiki/entities/people/joe-bowers|Joe Bowers]] — designer behind Node Dojo / Grid Infinity.
+- [[wiki/entities/people/zack-freedman|Zack Freedman]] — engineer/YouTuber celebrated for open-source modular hardware.
+- [[wiki/entities/people/peter-fiber-tech|Peter (fiber tech)]] — residential fiber installer interviewed on-site.
+- [[wiki/entities/people/steve-jobs|Steve Jobs]] — annotated 2005 Stanford commencement source.
+- [[wiki/entities/people/gozie-nzebuka|Dr. Gozie Nzebuka]] — FUTO ME lead; SCUTTLE Nigeria; David's mentee.
+- [[wiki/entities/people/leonardo-da-vinci|Leonardo da Vinci]] — cited as proof case for ME-only mechanical understanding.
+- [[wiki/entities/people/angel-paredes|Angel Paredes]] — Texas A&M PhD candidate from Ecuador; co-runs MechanicsInside.
+- [[wiki/entities/people/joseph-morgan|Dr. Joseph Morgan]] — David's master's adviser; founded MISL lab.
+- [[wiki/entities/people/gina|Gina]] — fourth-year ME student in Canada; FUTO extruder fundraiser.
+- [[wiki/entities/people/william-clay-ford|William Clay Ford]] — Henry Ford's great-grandson; Detroit 2012 anecdote.
+- [[wiki/entities/people/renato|Renato]] — Brazilian computer engineer; David's grad-school friend.
+- [[wiki/entities/people/dr-nurasmi|Dr. Nurasmi]] — SCUTTLE Malaysia lead in Johor Bahru.
+- [[wiki/entities/people/walt-abi|Walt Abi]] — Brazilian biotech/mechatronics company founder (WTA).
+- [[wiki/entities/people/reza-langari|Dr. Reza Langari]] — David's PhD adviser; exoskeleton lab PI.
+- [[wiki/entities/people/elon-musk|Elon Musk]] — addressed at end of battery-adapter video re: Tesla cost-down failure.
+- [[wiki/entities/people/ibraheem|Ibraheem]] — TAMU PhD student in Langari's lab; exoskeleton controls.
+- [[wiki/entities/people/precious|Precious]] — TAMU controls PhD student from Nigeria.
+- [[wiki/entities/people/aniket|Aniket]] — TA at Texas A&M MMET lab; soldering-strain-gauges video.
+- [[wiki/entities/people/brey-caraway|Brey Caraway]] — SCUTTLE community contributor; designed the payload deck.
+- [[wiki/entities/people/nextec-capstone-team|Nextec capstone team]] — Texas A&M ETID Fall 2019 capstone — built SCUTTLE wireless dock and CV docking.
+- [[wiki/entities/people/herbert|Herbert]] — friend who helped David assemble the timber overhead structure on the 2018 backyard aquaponics rig.
+
+### Tools
+
+- [[wiki/entities/tools/sharpie|Sharpie]] — marking / labeling across multiple videos.
+- [[wiki/entities/tools/3d-printer|3D printer]] — primary prototyping tool.
+- [[wiki/entities/tools/circular-saw|Circular saw]] — composite cuts and (with wax) aluminum.
+- [[wiki/entities/tools/miter-saw|Miter saw]] — aluminum extrusion cutting with paraffin wax.
+- [[wiki/entities/tools/calipers|Calipers]] — reference precision instrument.
+- [[wiki/entities/tools/ball-bearings|Ball bearings]] — archetypal 'borrowed precision' part.
+- [[wiki/entities/tools/collet|Collet]] — precision clamping alternative to 3-jaw chuck.
+- [[wiki/entities/tools/usb-power-meter|USB power meter]] — right-sized inline meter for USB characterization.
+- [[wiki/entities/tools/soldering-iron|Soldering iron]] — controllable heat source for non-soldering tasks.
+- [[wiki/entities/tools/threaded-insert|Threaded insert]] — brass heat-set insert for FDM parts.
+- [[wiki/entities/tools/rivnut|Rivnut]] — blind threaded rivet for tube/sheet.
+- [[wiki/entities/tools/torque-wrench|Torque wrench]] — calibrated wrench for measurement and breakaway-torque method.
+- [[wiki/entities/tools/18650-cell|18650 cell]] — the lab's central lithium-ion format.
+- [[wiki/entities/tools/solar-panel|Solar panel]] — DC-direct charging without inverter loss.
+- [[wiki/entities/tools/ballistol|Ballistol]] — rubber-safe multi-purpose lubricant.
+- [[wiki/entities/tools/fiber-cleaver|Fiber cleaver]] — scores and snaps glass fiber for splicing.
+- [[wiki/entities/tools/fusion-splicer|Fusion splicer]] — arc-welds aligned cleaved fibers.
+- [[wiki/entities/tools/otdr|OTDR]] — localizes attenuation events along a fiber.
+- [[wiki/entities/tools/optical-network-terminal|Optical Network Terminal (ONT)]] — fiber-to-electrical residential endpoint.
+- [[wiki/entities/tools/project-box|Project box]] — off-the-shelf metal/plastic enclosure.
+- [[wiki/entities/tools/o-ring|O-ring]] — default circular-face seal.
+- [[wiki/entities/tools/zip-tie|Zip tie]] — production-grade nylon cable tie.
+- [[wiki/entities/tools/spiral-wrap|Spiral wrap]] — branchable cable-bundling sleeve.
+- [[wiki/entities/tools/din-rail|DIN rail]] — industrial mounting standard.
+- [[wiki/entities/tools/dupont-connector|Dupont connector]] — 0.1" pitch crimp-and-housing.
+- [[wiki/entities/tools/drill-press|Drill press]] — perpendicularity guarantor.
+- [[wiki/entities/tools/step-drill-bit|Step drill bit]] — David's favorite drill bit.
+- [[wiki/entities/tools/forstner-bit|Forstner bit]] — flat-bottomed precision wood bit.
+- [[wiki/entities/tools/automatic-center-punch|Automatic center punch]] — spring-loaded indent for drill alignment.
+- [[wiki/entities/tools/deburring-tool|Deburring tool]] — swivel-cutter chamfer cleaner.
+- [[wiki/entities/tools/anderson-connector|Anderson Powerpole connector]] — genderless modular DC connector.
+- [[wiki/entities/tools/limit-switch|Limit switch]] — minimum sensor; one-bit position.
+- [[wiki/entities/tools/h-bridge|H-bridge]] — four-transistor DC motor driver topology.
+- [[wiki/entities/tools/beaglebone-y-ai|BeagleBone Y-AI]] — AI-capable SBC integrated into SCUTTLE.
+- [[wiki/entities/tools/dc-dc-converter|DC-DC converter]] — buck regulator for SBC power.
+- [[wiki/entities/tools/cordless-drill|Cordless drill]] — battery + H-bridge + brushed DC motor + planetary gearbox.
+- [[wiki/entities/tools/treadmill-motor|Treadmill motor]] — salvaged DC motor with flywheel.
+- [[wiki/entities/tools/pwm-signal-generator|PWM signal generator]] — command source for H-bridge demos.
+- [[wiki/entities/tools/dual-h-bridge-motor-driver|Dual H-bridge motor driver]] — 5 A 2-channel benchtop motor driver.
+- [[wiki/entities/tools/dc-gearmotor|DC gearmotor]] — 200 RPM brushed gearmotor — SCUTTLE teaching load.
+- [[wiki/entities/tools/pinecil|Pinecil]] — USB-C PD portable soldering iron.
+- [[wiki/entities/tools/usb-pd-trigger-board|USB-PD trigger board]] — negotiates fixed voltages from PD adapters.
+- [[wiki/entities/tools/utility-knife|Utility knife]] — zero-kerf cutting on expanded PVC.
+- [[wiki/entities/tools/cnc-router|CNC router]] — $1k-class kit machine.
+- [[wiki/entities/tools/multimeter|Multimeter]] — ubiquitous lab instrument.
+- [[wiki/entities/tools/handy-box|Handy box]] — OpenBox project's universal enclosure platform.
+- [[wiki/entities/tools/flashforge-creator-pro|FlashForge Creator Pro]] — FDM printer implicated in 2018 lab fire.
+- [[wiki/entities/tools/emt-conduit|EMT conduit]] — thin-wall steel tubing as a structural member.
+- [[wiki/entities/tools/sleeve|Sleeve (printable part family)]] — shaft-retainer through a handy-box wall.
+- [[wiki/entities/tools/2020-extrusion|2020 / aluminum T-slot extrusion]] — 20 mm framing standard.
+- [[wiki/entities/tools/3030-extrusion|3030 extrusion]] — 30 mm framing variant.
+- [[wiki/entities/tools/unistrut|Unistrut]] — lipped-channel steel framing strut.
+- [[wiki/entities/tools/harmonic-drive|Harmonic drive]] — low-backlash exoskeleton joint gearbox.
+- [[wiki/entities/tools/emg-sensor|EMG sensor]] — muscle-signal input to assist-as-needed control.
+- [[wiki/entities/tools/doodlebug-mop|3M Doodlebug]] — industrial pad mop foundation for David's open-source build.
+- [[wiki/entities/tools/scotchbrite|Scotchbrite]] — ceramic-abrasive web pad.
+- [[wiki/entities/tools/swiffer|Swiffer]] — enshittification worked example.
+- [[wiki/entities/tools/cuban-mop|Cuban / stick mop]] — rag-around-stick mop sold unlabelled.
+- [[wiki/entities/tools/honeywell-hpa300|Honeywell HPA300]] — HEPA filter for lab fume clearance.
+- [[wiki/entities/tools/roomba|Roomba]] — robot vacuum / 'calibrate the humans' worked example.
+- [[wiki/entities/tools/hook-bracket|Hook bracket]] — open-source 3D-printable closet hanger.
+- [[wiki/entities/tools/cutting-mat|Cutting mat]] — self-healing daily-use mat.
+- [[wiki/entities/tools/hobby-esc|Hobby ESC]] — RC-grade brushed-DC speed controller driven by hobby-servo PWM.
+- [[wiki/entities/tools/p1am-100|P1AM-100]] — AutomationDirect Arduino-compatible PLC controller.
+- [[wiki/entities/tools/productivity-blocks|Productivity Blocks]] — graphical PLC programming environment.
+- [[wiki/entities/tools/arduino-ide|Arduino IDE]] — host IDE for P1AM upload and ESP8266 sensor sketches.
+- [[wiki/entities/tools/esp8266-nodemcu|ESP8266 / NodeMCU]] — Wi-Fi MCU sensor node in the MXET conveyor demo.
+- [[wiki/entities/tools/vl53-distance-sensor|VL53 distance sensor]] — STMicro time-of-flight distance sensor over I2C.
+- [[wiki/entities/tools/dorner-conveyor|Dorner conveyor]] — industrial stepper-driven conveyor controlled via series relays.
+- [[wiki/entities/tools/ur3e|UR3e]] — Universal Robots collaborative arm in the MXET demo.
+- [[wiki/entities/tools/relay-module|Relay module]] — DIN-rail relay bank for PLC override and SprayMaster switching.
+- [[wiki/entities/tools/htd5-belt|HTD5 timing belt]] — SCUTTLE wheel-pulley belt profile.
+- [[wiki/entities/tools/rplidar-a1|RPLIDAR A1]] — Slamtec 360-degree scanning LIDAR on SCUTTLE.
+- [[wiki/entities/tools/t-slot-nut|T-slot nut]] — slide-in nut for T-slot extrusion.
+- [[wiki/entities/tools/cba-power-meter|CBA power meter]] — West Mountain Radio battery analyzer for discharge tests.
+- [[wiki/entities/tools/powerwerx-dc-meter|Powerwerx DC meter]] — 150A inline DC meter for Anderson connectors.
+- [[wiki/entities/tools/dupont-crimper|Dupont crimper]] — 2.54 mm pitch crimper.
+- [[wiki/entities/tools/anderson-crimper|Anderson crimper]] — 15A/30A/45A die crimper for Anderson Powerwerx terminals.
+- [[wiki/entities/tools/ferrule-crimper|Ferrule crimper]] — Iwiss HSC 86-6A self-adjusting hex crimper ("iron sphincter").
+- [[wiki/entities/tools/flush-cutters|Flush cutters]] — plastic/copper-only hand cutter; not for steel/aluminum/spring.
+- [[wiki/entities/tools/universal-cable-stripper|Universal cable stripper]] — round-cable jacket stripper with adjustable depth.
+- [[wiki/entities/tools/screw-terminal|Screw terminal]] — DIN-rail terminal block clamping ferruled wire.
+- [[wiki/entities/tools/linear-actuator|Linear actuator]] — 12V linear actuator on SprayMaster.
+- [[wiki/entities/tools/gardner-bender-gs388-crimper|Gardner Bender GS-388 crimper]] — spade-terminal crimper.
+- [[wiki/entities/tools/spade-terminal|Spade terminal]] — color-coded female quick-disconnect.
+- [[wiki/entities/tools/sharex|ShareX]] — free Windows screenshot/automation/OCR utility.
+- [[wiki/entities/tools/strain-gauge|Strain gauge]] — resistance-bridge displacement sensor on copper-tab substrate.
+- [[wiki/entities/tools/jetson-nano|Jetson Nano]] — NVIDIA SBC alternative to Raspberry Pi for AI workloads.
+- [[wiki/entities/tools/hand-tap|Hand tap]] — beginner threading tool for extrusion ends.
+- [[wiki/entities/tools/beaglebone-blue|BeagleBone Blue]] — original 2019-2020 SCUTTLE host (distinct from Y-AI).
+- [[wiki/entities/tools/node-red|Node-RED]] — flow-based browser GUI for IoT pipelines and SCUTTLE dashboards.
+- [[wiki/entities/tools/github-gist|GitHub Gist]] — snippet store for shared Node-RED flow JSON.
+- [[wiki/entities/tools/sd-card|SD card]] — generic microSD; SCUTTLE's BeagleBone boots from one.
+- [[wiki/entities/tools/hobby-servo|Hobby servo]] — generic 180-degree RC servo on SCUTTLE arm joints.
+- [[wiki/entities/tools/servo-horn|Servo horn]] — round disc accessory shipped with hobby servos.
+- [[wiki/entities/tools/wheel-encoder|Wheel encoder]] — phi-dot rotary encoder for SCUTTLE closed-loop control.
+- [[wiki/entities/tools/sick-tim561-lidar|SICK TiM561 lidar]] — industrial 2D scanning lidar on early SCUTTLE.
+- [[wiki/entities/tools/usb-webcam|USB webcam]] — vision sensor for SCUTTLE docking demos.
+- [[wiki/entities/tools/gamepad|Gamepad]] — wireless controller; SCUTTLE manual-drive input.
+- [[wiki/entities/tools/mpu9250|MPU-9250]] — 9-axis IMU on the BeagleBone Blue.
+- [[wiki/entities/tools/drill-bit|Drill bit]] — 8 mm metric for chasing printed axle holes.
+- [[wiki/entities/tools/mqttool|MQTTool]] — iOS/Android MQTT client app.
+- [[wiki/entities/tools/hivemq|HiveMQ]] — public MQTT broker used as SCUTTLE cloud relay.
+- [[wiki/entities/tools/jst-zh-connector|JST-ZH connector]] — 1.5 mm pitch signal connector on BeagleBone Blue motor outputs.
+- [[wiki/entities/tools/vscode|VS Code]] — editor + SFTP for SCUTTLE on-Pi development.
+- [[wiki/entities/tools/putty|PuTTY]] — Windows SSH terminal client.
+- [[wiki/entities/tools/mobaxterm|MobaXterm]] — Windows multi-tab SSH client.
+- [[wiki/entities/tools/cloud9|Cloud9]] — browser IDE preinstalled on BeagleBone images.
+- [[wiki/entities/tools/heat-gun|Heat gun]] — for hot-melt re-flow and heat-shrink.
+- [[wiki/entities/tools/buzzer|Buzzer]] — piezo demo actuator for SCUTTLE IoT tutorials.
+- [[wiki/entities/tools/rfid-reader|RFID reader]] — robot identification at SCUTTLE wireless dock.
+- [[wiki/entities/tools/wireless-charging-pad|Wireless charging pad]] — Qi-style 2 A pads on SCUTTLE dock.
+- [[wiki/entities/tools/arduino-mqtt-client-library|Arduino MQTT client library]] — PubSubClient for ESP8266 MQTT.
+- [[wiki/entities/tools/flashforge-creator-pro2|FlashForge Creator Pro 2]] — IDEX dual-extruder FDM printer.
+- [[wiki/entities/tools/simplify-3d|Simplify3D]] — paid third-party FDM slicer.
+- [[wiki/entities/tools/flashprint|FlashPrint]] — FlashForge's bundled slicer.
+- [[wiki/entities/tools/nvidia-isaac-sdk|NVIDIA Isaac SDK]] — robotics SDK with sim-to-real bridge.
+- [[wiki/entities/tools/nvidia-isaac-sim|NVIDIA Isaac Sim]] — photorealistic robotics simulator.
+- [[wiki/entities/tools/ubuntu|Ubuntu]] — Linux distro for Isaac SDK / Sim runtime.
+- [[wiki/entities/tools/swirl-filter|Swirl filter]] — vortex sediment trap for aquaponics tank-to-bed flow.
+- [[wiki/entities/tools/reverse-osmosis-di-system|RO + DI system]] — ~$60 water purifier for aquaponics tank top-up.
+- [[wiki/entities/tools/solenoid-valve|Solenoid valve]] — 120 V valve for automated tank refill.
+- [[wiki/entities/tools/aquarium-pump-20w|20 W aquarium pump]] — submersible pump driving the single-pump CHOP loop.
+- [[wiki/entities/tools/airstone|Airstone]] — diffuser for tank aeration.
+- [[wiki/entities/tools/wifi-temperature-sensor|Wi-Fi temperature sensor]] — tank-water temperature monitor on the 2018 rig.
+- [[wiki/entities/tools/scuttle-universal-bracket|SCUTTLE universal bracket]] — 3D-printed t-slot-mating bracket; one of two SCUTTLE parts that needs supports.
+- [[wiki/entities/tools/scuttle-hardware-kit|SCUTTLE hardware kit]] — bagged fastener kit for SCUTTLE v1.0 builds.
+- [[wiki/entities/tools/hex-key-set|Hex key set]] — color-coded blue/green/black SCUTTLE hex keys (poka-yoke).
+- [[wiki/entities/tools/ratcheting-driver|Ratcheting driver]] — ratcheting hex/bit driver for M8 axle bolts.
+- [[wiki/entities/tools/wire-cutters|Wire cutters]] — flush snips for trimming 18 AWG battery-pack leads.
+- [[wiki/entities/tools/wire-strippers|Wire strippers]] — multi-gauge plier-style strippers (distinct from universal-cable-stripper).
+- [[wiki/entities/tools/insulated-terminal-crimper|Insulated-terminal crimper]] — hump-die crimper for insulated spade terminals.
+- [[wiki/entities/tools/rosin-flux-pen|Rosin flux pen]] — pen-style flux applicator for fine soldering.
+- [[wiki/entities/tools/18650-cell-holder|18650 cell holder]] — 3-cell plastic holder with steel spring pins.
+- [[wiki/entities/tools/helping-hands|Helping hands]] — alligator-clip soldering stand.
+- [[wiki/entities/tools/wheel-pulley|Wheel pulley]] — 3D-printed three-arm HTD5 pulley bonded inside skateboard wheel.
+- [[wiki/entities/tools/lock-washer|Lock washer]] — split lock washer under SCUTTLE axle nut.
+- [[wiki/entities/tools/axle-bolt|Axle bolt]] — long M8 bolt through SCUTTLE wheel bearings.
+- [[wiki/entities/tools/i2c-bus-board|I2C bus board]] — perforated PCB hosting SCUTTLE I2C signals.
+- [[wiki/entities/tools/i2c-bracket|I2C bracket]] — v1.2 ABS bracket clipping the I2C PCB to the chassis.
+- [[wiki/entities/tools/18650-charger|18650 charger]] — single-cell auto-cutoff lithium charger.
+- [[wiki/entities/tools/cell-removal-tool|Cell removal tool]] — plastic tab to safely extract 18650 cells.
+- [[wiki/entities/tools/rc-battery-monitor|`rc_battery_monitor`]] — librobotcontrol CLI on BeagleBone Blue.
+- [[wiki/entities/tools/m2-screw|M2 screw]] — coarse-thread fastener for I2C PCB mounting.
+- [[wiki/entities/tools/matlab|MATLAB]] — MathWorks numerical computing environment; SCUTTLE GUI v1.1 host.
+- [[wiki/entities/tools/matlab-runtime|MATLAB Runtime]] — free runtime for compiled SCUTTLE GUI EXE.
+- [[wiki/entities/tools/scuttle-gui|SCUTTLE GUI]] — David's MATLAB-built telemetry/keyboard SCUTTLE driver.
+- [[wiki/entities/tools/opencv|OpenCV]] — computer vision library for SCUTTLE color tracking and vision docking.
+- [[wiki/entities/tools/python|Python]] — primary language of SCUTTLE robot software.
+- [[wiki/entities/tools/color-tracking-v1|color_tracking_v1.py]] — SCUTTLE OpenCV color tracker (orange/basketball).
+- [[wiki/entities/tools/renishaw-am400|Renishaw AM400]] — laser powder-bed fusion metal-AM machine David operated at TAMU.
+- [[wiki/entities/tools/oxygen-sensor|Oxygen sensor]] — inert-atmosphere O2 sensor inside the AM400 build chamber.
+- [[wiki/entities/tools/quantam|QuantAM]] — Renishaw build-prep / slicer software for the AM400.
+- [[wiki/entities/tools/brush|Brush]] — small applicator brush for solvent welding.
+- [[wiki/entities/tools/q-tip|Q-tip]] — cotton swab as ABS-cement applicator in tight spots.
+- [[wiki/entities/tools/mqtt-websocket-client|MQTT WebSocket client]] — browser-based test client against HiveMQ.
+- [[wiki/entities/tools/notepad-plus-plus|Notepad++]] — Windows text editor for raw-GitHub paste workflow.
+
+### Materials
+
+- [[wiki/entities/materials/aluminum|Aluminum]] — structural, reflective, in many video roles.
+- [[wiki/entities/materials/nylon|Nylon]] — low-friction polymer; label-adhesion caveat.
+- [[wiki/entities/materials/hdpe|HDPE]] — tough, cheap, low-friction polymer.
+- [[wiki/entities/materials/vinyl|Vinyl / PVC tape]] — flexible tape / cable sheathing.
+- [[wiki/entities/materials/ptfe-teflon|PTFE / Teflon]] — pipe-thread sealing, low friction.
+- [[wiki/entities/materials/kapton-tape|Kapton tape]] — polyimide, high-temperature.
+- [[wiki/entities/materials/pla|PLA]] — common FDM filament.
+- [[wiki/entities/materials/abs|ABS]] — tougher FDM filament; bonds to PVC with PVC cement.
+- [[wiki/entities/materials/urethane|Urethane]] — tough pneumatic-hose polymer.
+- [[wiki/entities/materials/spring-steel|Spring steel]] — deterministic elastic behavior.
+- [[wiki/entities/materials/isopropyl-alcohol|Isopropyl alcohol]] — Sharpie remover; first solvent.
+- [[wiki/entities/materials/paraffin-wax|Paraffin wax]] — blade lubricant for cutting aluminum.
+- [[wiki/entities/materials/copper|Copper]] — USB cable conductor; CPU cooler heat-pipe; FIFO suspension wire.
+- [[wiki/entities/materials/d-rail|Steel d-rail]] — cheap horizontal alternative to matched aluminum beams.
+- [[wiki/entities/materials/silicone|Silicone]] — RTV sealant — David's most-recommended general-purpose adhesive.
+- [[wiki/entities/materials/rubber|Rubber]] — elastomer test substrate.
+- [[wiki/entities/materials/pvc|PVC]] — plumbing tubing; friction-weld substrate; FIFO chute material.
+- [[wiki/entities/materials/hot-melt-glue|Hot-melt glue]] — second-tier general-purpose adhesive.
+- [[wiki/entities/materials/jb-weld|JB Weld]] — steel-reinforced epoxy; rigid and brittle.
+- [[wiki/entities/materials/epoxy|Epoxy]] — two-part thermoset; clear casting and tin-can lining.
+- [[wiki/entities/materials/two-part-epoxy|Two-part epoxy]] — A/B casting epoxy.
+- [[wiki/entities/materials/construction-adhesive|Construction adhesive]] — heavy-bodied gap-filler for wood and panels.
+- [[wiki/entities/materials/pvc-cement|PVC cement]] — two-part solvent weld for PVC.
+- [[wiki/entities/materials/contact-cement|Contact cement (E6000)]] — tacky shear-loaded adhesive.
+- [[wiki/entities/materials/super-glue|Super glue (CA)]] — drop-application cyanoacrylate.
+- [[wiki/entities/materials/optical-fiber|Optical fiber]] — telecom glass core + cladding.
+- [[wiki/entities/materials/kevlar|Kevlar / aramid]] — fiber-cable strength member.
+- [[wiki/entities/materials/lifepo4|LiFePO4]] — stable lithium chemistry for automation projects.
+- [[wiki/entities/materials/polycarbonate|Polycarbonate / Lexan]] — tough but split-prone clear plastic.
+- [[wiki/entities/materials/fiberglass|Fiberglass / GFRP]] — abrasive composite — needs carbide bits.
+- [[wiki/entities/materials/cork|Cork]] — compressible plant fiber; insole material.
+- [[wiki/entities/materials/expanded-pvc|Expanded PVC]] — David's preferred fabrication panel.
+- [[wiki/entities/materials/acrylic|Acrylic / PMMA]] — drilling-prone clear thermoplastic.
+- [[wiki/entities/materials/pvc-primer|PVC primer (purple)]] — solvent prep for PVC cementing.
+- [[wiki/entities/materials/heat-shrink|Heat-shrink tubing]] — polyolefin insulating sleeve.
+- [[wiki/entities/materials/stamped-steel|Stamped steel]] — thin steel handy-box / knockout-seal stock.
+- [[wiki/entities/materials/steel-tubing|Steel tubing]] — low-cost structural backbone.
+- [[wiki/entities/materials/galvanized-fence-post|Galvanized fence post]] — 33.4 mm closet-rod upgrade.
+- [[wiki/entities/materials/cardboard|Cardboard]] — low-cost prototype material; spill smear tool.
+- [[wiki/entities/materials/duck-cloth|Cotton duck cloth]] — tear-strength layer over cork insoles.
+- [[wiki/entities/materials/beeswax|Beeswax]] — blade lubricant for adhesive cuts.
+- [[wiki/entities/materials/chemsorb|Chemsorb]] — engineered absorbent powder for spills.
+- [[wiki/entities/materials/acetone|Acetone]] — volatile solvent; ABS vapor smoothing.
+- [[wiki/entities/materials/solder-paste|Solder paste]] — tin/lead + flux for hand-populated PCBs.
+- [[wiki/entities/materials/diametric-magnet|Diametric magnet]] — pole-across-diameter magnet for wheel-encoder pickup.
+- [[wiki/entities/materials/lipo-battery|LiPo battery]] — 3-cell lithium-polymer pack on early SCUTTLE.
+- [[wiki/entities/materials/petg|PETG]] — glycol-modified PET filament; mid-tier FDM material.
+- [[wiki/entities/materials/expanded-clay-pellets|Expanded clay pellets]] — lightweight hydroton-style aquaponics media.
+- [[wiki/entities/materials/expanded-shale|Expanded shale]] — cheaper aquaponics media; locally-sourced-BOM example.
+- [[wiki/entities/materials/landscape-timbers|Landscape timbers]] — 8 ft round timbers for aquaponics overhead structure.
+- [[wiki/entities/materials/fishnet|Fishnet]] — shower-curtain mesh + fishing-net weights as critter enclosure.
+- [[wiki/entities/materials/shade-cloth|Shade cloth]] — 40% shade cloth that revived aquaponics summer growth.
+- [[wiki/entities/materials/pea-gravel|Pea gravel]] — leveling layer under cinder-block foundation.
+- [[wiki/entities/materials/18awg-wire|18 AWG wire]] — 0.75 mm^2 stranded wire for SCUTTLE v1.0 power.
+- [[wiki/entities/materials/brass|Brass]] — heat-set inserts and laminar-flow nozzle fittings.
+- [[wiki/entities/materials/rosin-flux|Rosin flux]] — flux applied from pen during fine-wire soldering.
+- [[wiki/entities/materials/lead-tin-solder|Lead-tin solder]] — generic Sn-Pb solder for SCUTTLE battery-pack joints.
+- [[wiki/entities/materials/skateboard-wheel|Skateboard wheel]] — urethane drive wheel for SCUTTLE v1.0.
+- [[wiki/entities/materials/argon|Argon]] — inert atmosphere gas for AM400 builds; argon-bubble purge problem.
+- [[wiki/entities/materials/stainless-steel|Stainless steel]] — material profile in QuantAM build-prep walkthrough.
+- [[wiki/entities/materials/pro-weld|Pro Weld]] — solvent plastic welder for styrene/butadiene/acrylic.
+- [[wiki/entities/materials/abs-cement|ABS cement]] — solvent cement for sealing FDM ABS porosity.
+- [[wiki/entities/materials/cpvc-cement|CPVC cement]] — solvent cement for CPVC piping.
+- [[wiki/entities/materials/foam|Foam]] — pressure-equalizing foam ring inside the laminar-flow nozzle.
+
+### Brands
+
+- [[wiki/entities/brands/toyota|Toyota]] — formative employer; source of many recurring lessons.
+- [[wiki/entities/brands/texas-am|Texas A&M]] — David's current institution.
+- [[wiki/entities/brands/3m|3M]] — quality-benchmark brand (tape, PPE, Doodlebug, Scotchbrite).
+- [[wiki/entities/brands/grabcad|GrabCAD]] — open-source CAD sharing platform.
+- [[wiki/entities/brands/amazon|Amazon]] — cross-video supplier of cheap-but-adequate parts.
+- [[wiki/entities/brands/home-depot|Home Depot]] — hardware store; cross-video including Cancun Mexico tour.
+- [[wiki/entities/brands/lowes|Lowe's]] — hardware store (interchangeable with Home Depot).
+- [[wiki/entities/brands/solidworks|SolidWorks]] — CAD software; weldments workflow; canonical entry (deprecates `tools/solidworks-2020`).
+- [[wiki/entities/brands/automation-direct|Automation Direct]] — David's 3030 extrusion supplier.
+- [[wiki/entities/brands/texas-instruments|Texas Instruments]] — Launchpad; AI-on-the-edge SCUTTLE variant.
+- [[wiki/entities/brands/arduino|Arduino]] — archetypal student-project microcontroller.
+- [[wiki/entities/brands/raspberry-pi|Raspberry Pi]] — single-board computer; Pi 3/4/5 power-issue subjects.
+- [[wiki/entities/brands/crayola|Crayola]] — plausible paraffin-wax substitute.
+- [[wiki/entities/brands/dewalt|DeWalt]] — cordless tools; voltage-marketing example.
+- [[wiki/entities/brands/ridgid|Ridgid]] — lifetime-warranty cordless tools; battery-adapter benchmark.
+- [[wiki/entities/brands/crc|CRC Industries]] — lubricant; ABS/nylon-rated but rubber-aggressive.
+- [[wiki/entities/brands/wd-40|WD-40]] — rubber-aggressive penetrant.
+- [[wiki/entities/brands/jb-weld-brand|JB Weld (brand)]] — manufacturer of steel-reinforced epoxy.
+- [[wiki/entities/brands/mouser|Mouser]] — datasheet-rich electronics distributor.
+- [[wiki/entities/brands/anderson-powerworks|Anderson Power Products]] — Powerpole connector manufacturer.
+- [[wiki/entities/brands/boston-dynamics|Boston Dynamics]] — Atlas/Spot — David's dynamics-vs-static-motion critique.
+- [[wiki/entities/brands/beaglebone|BeagleBone]] — open-source SBC organization (Y-AI).
+- [[wiki/entities/brands/canakit|Canakit]] — Pi reseller bundles with quality 5.1 V adapters.
+- [[wiki/entities/brands/molex|Molex]] — exemplar of vertical-non-integration leverage.
+- [[wiki/entities/brands/futo|FUTO]] — Federal University of Technology Owerri; SCUTTLE Nigeria home.
+- [[wiki/entities/brands/asus|ASUS]] — lunchbox-PC motherboard and GPU.
+- [[wiki/entities/brands/noctua|Noctua]] — premium quiet PC fans.
+- [[wiki/entities/brands/mechanics-inside|MechanicsInside]] — Angel Paredes's YouTube channel.
+- [[wiki/entities/brands/chatgpt|ChatGPT]] — GPT-5 generates SCUTTLE simulations from a single prompt.
+- [[wiki/entities/brands/tesla|Tesla]] — subject of David's cost-down critique.
+- [[wiki/entities/brands/flashforge|FlashForge]] — Creator Pro 3D printer.
+- [[wiki/entities/brands/walmart|Walmart]] — Swiffer + unlabeled Cuban mop side-by-side.
+- [[wiki/entities/brands/honeywell|Honeywell]] — HPA300 HEPA filter manufacturer.
+- [[wiki/entities/brands/slamtec|Slamtec]] — RPLIDAR series manufacturer.
+- [[wiki/entities/brands/west-mountain-radio|West Mountain Radio]] — ham-radio gear maker; CBA battery analyzers.
+- [[wiki/entities/brands/powerwerx|Powerwerx]] — Anderson Powerpole and DC-meter distributor.
+- [[wiki/entities/brands/futaba|Futaba]] — RC servo manufacturer; 3-pin servo connector standard.
+- [[wiki/entities/brands/dell|Dell]] — PC integrator-as-OEM; designs nothing, integrates everything.
+- [[wiki/entities/brands/panasonic|Panasonic]] — 18650 cell OEM downstream of Tesla.
+- [[wiki/entities/brands/mcmaster-carr|McMaster-Carr]] — datasheet-rich US industrial supplier.
+- [[wiki/entities/brands/mr-diy|Mr. DIY]] — Malaysian retail chain; round-1 adhesive sourcing.
+- [[wiki/entities/brands/daiso|Daiso]] — Japanese retail chain; source of round-1 winning shoe glue.
+- [[wiki/entities/brands/cayenne|Cayenne]] — myDevices IoT dashboard for SCUTTLE telemetry.
+- [[wiki/entities/brands/creality|Creality]] — cheaper Ender alternative to FlashForge.
+- [[wiki/entities/brands/cytron|Cytron]] — Malaysian electronics supplier; SCUTTLE solar panel source.
+- [[wiki/entities/brands/nvidia|NVIDIA]] — GPU + Isaac SDK / Sim publisher.
+- [[wiki/entities/brands/github|GitHub]] — code-hosting; SCUTTLE repos and Gists.
+- [[wiki/entities/brands/renishaw|Renishaw]] — UK metrology/AM OEM; maker of AM400 and QuantAM.
+
+### Projects
+
+- [[wiki/entities/projects/scuttle-robot|SCUTTLE robot]] — open-source educational robot platform David leads.
+- [[wiki/entities/projects/openbox|OpenBox]] — 3D-printable accessories built around handy-box electrical enclosures.
+- [[wiki/entities/projects/openlab|OpenLab]] — umbrella for David's open-source lab equipment, methods, parts, tutorials.
+- [[wiki/entities/projects/openjar|OpenJar]] — sibling threaded-container designs.
+- [[wiki/entities/projects/openspin|OpenSpin]] — sibling bearing/spindle designs.
+- [[wiki/entities/projects/openair|OpenAir]] — sibling pneumatics/airflow designs.
+- [[wiki/entities/projects/openarm|OpenArm]] — sibling arm/manipulator designs.
+- [[wiki/entities/projects/open-me-project|Open ME Project]] — David's full ME bachelor's degree, open-published.
+- [[wiki/entities/projects/scuttle-nigeria|SCUTTLE Nigeria]] — Africa node at FUTO; Dr. Nzebuka leads.
+- [[wiki/entities/projects/scuttle-malaysia|SCUTTLE Malaysia]] — four-year Johor Bahru deployment with Dr. Nurasmi.
+- [[wiki/entities/projects/parametric-vacuum-adapter|Parametric vacuum adapter]] — single model spans brand-specific connector tapers.
+- [[wiki/entities/projects/filament-extruder|Filament extruder (FUTO)]] — pellet-to-filament line designed in SolidWorks.
+- [[wiki/entities/projects/futo-filament-extruder|FUTO filament extruder fundraiser]] — GoFundMe project for Nigeria local feedstock.
+- [[wiki/entities/projects/bikini-bracket|Bikini bracket]] — ABS bracket bonding to PVC tube via PVC cement.
+- [[wiki/entities/projects/lunchbox-pc|Lunchbox PC]] — Angel Paredes's compact ITX gaming/CAD build.
+- [[wiki/entities/projects/misl-projects|MISL projects]] — rotating slate of multidisciplinary builds at Texas A&M.
+- [[wiki/entities/projects/team-zamalik-chili-robot|Team Zamalik chili robot]] — Malaysian SCUTTLE field robot for chili-disease detection.
+- [[wiki/entities/projects/scuttle-hinge|SCUTTLE hinge family]] — parametric hinge variants on GrabCAD as fan_joint-1.
+- [[wiki/entities/projects/labs-need-rags-memo|Labs Need Rags memo]] — PDF advocacy doc for university administrators.
+- [[wiki/entities/projects/hub-zero|Hub Zero]] — open-source 3D-printed bearing hub.
+- [[wiki/entities/projects/grip-22|Grip 22]] — parametric hex-shaped cap-tightening grip.
+- [[wiki/entities/projects/terminal-v2|Terminal V2]] — open-source Ridgid 18 V battery → USB-C PD adapter.
+- [[wiki/entities/projects/assist-as-needed-exoskeleton|Assist-as-needed exoskeleton]] — Langari lab rehabilitation exoskeleton.
+- [[wiki/entities/projects/doodlebug-mop-build|Doodlebug-mop build]] — David's open-source mop based on 3M Doodlebug.
+- [[wiki/entities/projects/mxet-conveyor-demo|MXET conveyor demo]] — Texas A&M MXET 400 PLC + UR3e + conveyor teaching demo.
+- [[wiki/entities/projects/scuttle-payload-deck|SCUTTLE payload deck]] — Brey Caraway's open-source cargo deck for SCUTTLE.
+- [[wiki/entities/projects/spraymaster|SprayMaster]] — sub-$25 SCUTTLE spray accessory with laser pointer aim.
+- [[wiki/entities/projects/pneumatic-air-battery|Pneumatic air battery]] — fire-extinguisher-vessel compressed-air subsystem for SCUTTLE.
+- [[wiki/entities/projects/opengrow|OpenGrow]] — open-source single-pump aquaponics system.
+- [[wiki/entities/projects/cubesat-mdo-thesis-2016|CubeSat MDO thesis (2016)]] — David's master's research artifact.
+- [[wiki/entities/projects/scuttle-servo-arm-v1|SCUTTLE servo arm v1]] — two-joint PVC + 3D-print + hobby-servo arm.
+- [[wiki/entities/projects/scuttle-iot-ecosystem|SCUTTLE IoT ecosystem]] — phones, PCs, ESPs, and SCUTTLEs on shared MQTT topics.
+- [[wiki/entities/projects/scuttle-wireless-dock|SCUTTLE wireless dock]] — Nextec capstone autonomous wireless charging station.
+- [[wiki/entities/projects/iot-slot-car-racetrack|IoT slot-car racetrack]] — pitched bots-on-bots project.
+- [[wiki/entities/projects/scuttle-iot-guide|SCUTTLE IoT guide]] — preliminary best-practices document.
+- [[wiki/entities/projects/scuttle-conveyor|SCUTTLE conveyor]] — NEMA 23 stepper conveyor add-on.
+- [[wiki/entities/projects/scuttle-solar|SCUTTLE solar]] — $22 solar-panel SCUTTLE concept.
+- [[wiki/entities/projects/laminar-flow-nozzle|Laminar-flow nozzle]] — 3D-printed water-spray nozzle; multibody-modeled, ABS-cement assembled.
+
+### Places
+
+- [[wiki/entities/places/toyota-georgetown-kentucky|Toyota Georgetown plant, Kentucky]] — site of formative 5S internship.
+- [[wiki/entities/places/texas-am-lab|Texas A&M lab]] — David's current workshop / production setting.
+- [[wiki/entities/places/toyota-design-center-saline|Toyota Design Center, Saline, Michigan]] — David's ~2012 Toyota engineering tenure.
+- [[wiki/entities/places/brazil|Brazil]] — David's 2016 study trip and engineer collaborators.
+- [[wiki/entities/places/malaysia|Malaysia]] — SCUTTLE Asia hosting country.
+- [[wiki/entities/places/johor-bahru-malaysia|Johor Bahru, Malaysia]] — SCUTTLE Asia lab city near Singapore.
+- [[wiki/entities/places/singapore|Singapore]] — concentrated tech-investment reference example.
+- [[wiki/entities/places/lagos-nigeria|Lagos, Nigeria]] — SCUTTLE Robotics Africa node.
+- [[wiki/entities/places/futo-nigeria|FUTO campus, Nigeria]] — Federal University of Technology Owerri.
+- [[wiki/entities/places/aeri-nigeria|Aeri, Nigeria]] — Precious's pre-TAMU semester / SCUTTLE-related city.
+- [[wiki/entities/places/misl-lab|MISL — Multidisciplinary Integrated Systems Lab]] — Dr. Morgan's Texas A&M lab (2012–2021).
+- [[wiki/entities/places/pic-lab|PIC — Product Innovation Cell]] — Texas A&M senior-design lab.
+- [[wiki/entities/places/scuttle-asia-malaysia|SCUTTLE Asia (Malaysia lab space)]] — Johor Bahru office suite.
+- [[wiki/entities/places/kane-building|Kane Building (Texas A&M)]] — site of the 2018 prototyping-lab fire.
+- [[wiki/entities/places/home-depot-cancun|Home Depot Cancun, Mexico]] — hardware-aisle field trip.
+- [[wiki/entities/places/college-station-texas|College Station, Texas]] — David's 2018 location at Texas A&M; backyard aquaponics rig.
+
+## Concepts
+
+- [[wiki/concepts/borrowing-tolerances|Borrowing tolerances]] — the signature design-philosophy concept.
+- [[wiki/concepts/5s-methodology|5S methodology]] — Japanese lab-organization discipline.
+- [[wiki/concepts/parametric-design|Parametric design]] — variable-driven CAD; recurs across many videos.
+- [[wiki/concepts/screw-as-spring|Screw as a spring]] — why preload is controllable; why set screws aren't.
+- [[wiki/concepts/vibration-damping|Vibration damping]] — adding mass + lossy material to kill ring-down.
+- [[wiki/concepts/emissivity|Emissivity]] — and the masking-tape fix for IR measurements.
+- [[wiki/concepts/ferrite-noise-suppression|Ferrite noise suppression]] — real vs fake ferrite cores.
+- [[wiki/concepts/quick-charge|Quick Charge (QC)]] — 9 V negotiation over USB data pins.
+- [[wiki/concepts/calibrate-the-humans|Calibrate the humans]] — passive training via labeled measurements.
+- [[wiki/concepts/free-data|Free data]] — information manufacturers leave on their own labels.
+- [[wiki/concepts/print-direction|Print direction]] — orientation as first-order FDM design decision.
+- [[wiki/concepts/plastic-compressibility|Plastic compressibility]] — 0.03 mm drill oversize for FDM press-fits.
+- [[wiki/concepts/instrument-resolution|Instrument resolution]] — right-sized meters for the quantity being measured.
+- [[wiki/concepts/modularity|Modularity]] — swappable modules — change one without cascading.
+- [[wiki/concepts/multidisciplinary-optimization|Multidisciplinary optimization]] — David's master's thesis topic; AI as accelerator.
+- [[wiki/concepts/design-for-manufacturing|Design for Manufacturing (DFM)]] — encoding fab constraints in the design itself.
+- [[wiki/concepts/ai-as-optimizer|AI as optimizer]] — AI optimizes; humans must define the problem.
+- [[wiki/concepts/discharge-profile|Discharge profile]] — voltage-vs-time at constant load.
+- [[wiki/concepts/battery-protection-circuit|Battery protection circuit]] — per-pack BMS-lite cutoff.
+- [[wiki/concepts/solar-charging|Solar charging]] — DC-direct charging avoids inverter loss.
+- [[wiki/concepts/steady-state-heat-conduction|Steady-state heat conduction]] — 1-D heat equation behind the soldering-iron hack.
+- [[wiki/concepts/passive-convection|Passive convection]] — free heat loss to still air.
+- [[wiki/concepts/bonding-types|Bonding types]] — chemical / mechanical / tacky-contact taxonomy.
+- [[wiki/concepts/adhesive-selection-method|Adhesive selection method]] — substrate × method × load matrix.
+- [[wiki/concepts/surface-preparation|Surface preparation]] — roughening, cleaning, melting for adhesion.
+- [[wiki/concepts/adhesive-datasheet|Adhesive datasheet]] — manufacturer-supplied compatibility info.
+- [[wiki/concepts/peel-vs-shear|Peel vs. shear]] — load-direction differences in adhesive performance.
+- [[wiki/concepts/fiber-optic-installation|Fiber-optic installation]] — drop cable → splice → ONT workflow.
+- [[wiki/concepts/fusion-splicing|Fusion splicing]] — arc-welded fiber joint.
+- [[wiki/concepts/optical-attenuation|Optical attenuation]] — dB loss along fiber, OTDR-localizable.
+- [[wiki/concepts/benchmarking-design|Benchmarking-driven design]] — borrow the bestselling product's decisions.
+- [[wiki/concepts/o-ring-design|O-ring design]] — groove + clamp face for circular seals.
+- [[wiki/concepts/water-resistance|Water resistance]] — splash-rated enclosures with O-rings.
+- [[wiki/concepts/tolerances|Tolerances]] — pull from datasheets; don't guess.
+- [[wiki/concepts/cable-management|Cable management]] — neat, strain-relieved, serviceable wiring.
+- [[wiki/concepts/aluminum-extrusion-wiring|Aluminum-extrusion wiring]] — T-slot as integrated wire chase.
+- [[wiki/concepts/din-rail-wiring|DIN rail wiring]] — industrial mounting standard for power + control.
+- [[wiki/concepts/strain-relief|Strain relief]] — structural anchoring of cables.
+- [[wiki/concepts/psychrometrics|Psychrometrics]] — P-T phase reasoning for fluids.
+- [[wiki/concepts/supercritical-fluid|Supercritical fluid]] — two-phase coexistence in a butane cartridge.
+- [[wiki/concepts/tools-augment-not-replace|Tools augment, not replace]] — robots multiply, don't displace, skilled workers.
+- [[wiki/concepts/cross-disciplinary-humility|Cross-disciplinary humility]] — engineers entering trades should partner, not disrupt.
+- [[wiki/concepts/speeds-and-feeds|Speeds and feeds]] — RPM vs. torque heuristic for drill bits.
+- [[wiki/concepts/connecting-the-dots-backward|Connecting the dots backward]] — old journals as orientation tool.
+- [[wiki/concepts/mortality-as-decision-filter|Mortality as decision filter]] — the Jobs mirror question.
+- [[wiki/concepts/one-handed-access|One-handed access]] — every item reachable without two hands.
+- [[wiki/concepts/kaizen|Kaizen]] — small continuous improvements.
+- [[wiki/concepts/standardize-mounting-interfaces|Standardize mounting interfaces]] — shared profiles unlock thousands of attachments.
+- [[wiki/concepts/data-as-authority|Data as authority]] — truth carries weight independent of messenger.
+- [[wiki/concepts/real-estate-thinking|Real-estate thinking]] — workspace as a city — downtown / overflow / discard.
+- [[wiki/concepts/blue-tape-purge|Blue-tape purge]] — 30-day untaped boxes are non-essential.
+- [[wiki/concepts/cash-swap-psychology|Cash-swap psychology]] — envelope of replacement-cost as psychological release.
+- [[wiki/concepts/store-as-storage|Store as storage]] — below ~$20/cu-ft, retail is your shelves.
+- [[wiki/concepts/sensor-actuator-controller-loop|Sensor → controller → actuator loop]] — David's robot definition.
+- [[wiki/concepts/loop-vs-routine|Loop vs. routine]] — sensing-driven robots vs. pre-planned devices.
+- [[wiki/concepts/expert-dialogue-gap|Expert dialogue gap]] — discourse vacuum that experts must fill.
+- [[wiki/concepts/dynamics-vs-static-motion|Dynamics vs. static motion]] — Atlas can't cast a fishing pole.
+- [[wiki/concepts/open-source-knowledge|Open-source knowledge]] — asymmetric value to motivated few.
+- [[wiki/concepts/thermodynamic-cooperation|Thermodynamic cooperation]] — designs work with thermo, or fight it.
+- [[wiki/concepts/graceful-degradation|Graceful degradation]] — fail soft — perform less good rather than break.
+- [[wiki/concepts/actuator-taxonomy|Actuator taxonomy]] — axes of motion / pressure / energy / heat.
+- [[wiki/concepts/battery-chemistry-tradeoffs|Battery chemistry trade-offs]] — Li-ion vs. LiPo vs. LiFePO4.
+- [[wiki/concepts/usb-pd-vs-5v-power|USB-PD vs. 5 V power]] — negotiated voltages vs. legacy USB.
+- [[wiki/concepts/invisible-power-undersupply|Invisible power undersupply]] — silent SBC brownouts on undersized adapters.
+- [[wiki/concepts/mechatronics|Mechatronics]] — ME + EE + software combined.
+- [[wiki/concepts/vertical-non-integration|Vertical non-integration]] — leverage refined components instead of redesigning.
+- [[wiki/concepts/leadership-as-bottleneck|Leadership as bottleneck]] — scarce resource is willing leaders.
+- [[wiki/concepts/heat-pipe-cooling|Heat-pipe cooling]] — phase-change passive heat transport.
+- [[wiki/concepts/multidisciplinary-lab-model|Multidisciplinary lab model]] — Morgan-MISL operating template.
+- [[wiki/concepts/rag-as-infrastructure|Rag as infrastructure]] — managed laundry rotation as foundational.
+- [[wiki/concepts/pwm|PWM (pulse width modulation)]] — duty-cycle voltage averaging for DC motors.
+- [[wiki/concepts/h-bridge-trigger-module|H-bridge trigger module]] — four-switch DC bidirectional speed control.
+- [[wiki/concepts/dc-motor-fundamentals|DC motor fundamentals]] — voltage → current → torque, hand-drill to treadmill.
+- [[wiki/concepts/local-maxima|Local maxima]] — design/career trap of good-enough.
+- [[wiki/concepts/root-cause-analysis|Root-cause analysis]] — Toyota practice of tracing failures to mechanism.
+- [[wiki/concepts/pdca|PDCA (Plan-Do-Check-Act)]] — iterative improvement loop.
+- [[wiki/concepts/open-source-hardware-publishing|Open-source hardware publishing]] — STL + source + narrative + BOM, multi-tier.
+- [[wiki/concepts/zero-kerf-cutting|Zero-kerf cutting]] — lossless utility-knife cuts on expanded PVC.
+- [[wiki/concepts/bonding-by-porosity|Bonding by porosity]] — solvent cements need air to cure.
+- [[wiki/concepts/standardized-thickness|Standardized thickness]] — 6 mm panel rule for hardware interop.
+- [[wiki/concepts/risk-tolerance-vs-abundance|Risk tolerance vs. abundance]] — wealth inversely correlates with entrepreneurship.
+- [[wiki/concepts/technology-meeting-needs|Technology meeting needs]] — tech-to-needs mapping decays in wealthy economies.
+- [[wiki/concepts/lab-commonization|Lab commonization]] — labs converge on the same ~90% toolset.
+- [[wiki/concepts/openlab-philosophy|OpenLab philosophy]] — minimal lab + documentation + open invitation.
+- [[wiki/concepts/locally-sourced-bom|Locally-sourced BOM]] — partial BOM with placeholders for collaborators.
+- [[wiki/concepts/standardized-handybox|Standardized handybox]] — off-the-shelf electrical box as universal platform.
+- [[wiki/concepts/leverage-incumbent-engineering|Leverage incumbent engineering]] — design as adapter on top of mass-produced product.
+- [[wiki/concepts/connector-corrosion-cycle|Connector corrosion cycle]] — intermittent contact → corrosion → heat → fire.
+- [[wiki/concepts/symptom-watch|Symptom watch]] — behavior change is a signal — stop and investigate.
+- [[wiki/concepts/share-the-failure|Share the failure]] — humble disclosure unlocks help.
+- [[wiki/concepts/study-before-designing|Study before designing]] — survey the aisle before you draw.
+- [[wiki/concepts/parts-ecosystem-design|Parts ecosystem design]] — design into existing mass-produced families.
+- [[wiki/concepts/press-fit|Press fit]] — interference fit assembly via elastic deformation.
+- [[wiki/concepts/design-by-questions|Design by questions]] — finite question-list framework for non-specialists.
+- [[wiki/concepts/parts-library|Parts library]] — publish base + derived variants as a tree.
+- [[wiki/concepts/friction-welding-plastic|Friction-welding plastic]] — spin-fuse interface without adhesive.
+- [[wiki/concepts/torque-evaluation-on-assembled-fastener|Torque evaluation on an assembled fastener]] — breakaway-torque method.
+- [[wiki/concepts/bio-signal-meter|Bio-signal meter]] — EMG inputs for assist-as-needed control.
+- [[wiki/concepts/diy-vs-store-bought-cost-comparison|DIY vs. store-bought cost comparison]] — recurring per-unit math framing.
+- [[wiki/concepts/fifo-storage|FIFO storage]] — vertical-tube first-in-first-out for socks/garments.
+- [[wiki/concepts/closet-rod-upgrade|Closet-rod upgrade]] — galvanized fence top rail beats wooden rod.
+- [[wiki/concepts/spill-mitigation-workflow|Spill mitigation workflow]] — sprinkle → smear → wait → sweep.
+- [[wiki/concepts/volatile-cleanup-bag|Volatile-cleanup bag]] — pre-staged tin can with bagged liner.
+- [[wiki/concepts/hardware-enshittification|Hardware enshittification]] — market leaders shift design from user to shareholder.
+- [[wiki/concepts/product-for-stakeholders|Product for stakeholders]] — design optimized for shareholders, not users.
+- [[wiki/concepts/training-plus-product|Training + product]] — solution = product + the training to use it.
+- [[wiki/concepts/version-marking|Version marking]] — embedded debossed revision numbers on printed parts.
+- [[wiki/concepts/feature-tree-naming|Feature-tree naming]] — explicit CAD-tree names for parametric longevity.
+- [[wiki/concepts/documented-design-as-leverage|Documented design as leverage]] — wiring + block diagrams unlock variants.
+- [[wiki/concepts/vacuum-interface-standards|Vacuum-interface standards]] — 1 mm taper drift across vacuum-hose brands.
+- [[wiki/concepts/imperial-vs-metric-pragmatism|Imperial vs. metric pragmatism]] — follow the cheapest off-the-shelf component.
+- [[wiki/concepts/mistake-vs-improvement|Mistake vs. improvement]] — intention as the divider.
+- [[wiki/concepts/analog-to-digital-conversion|Analog-to-digital conversion (ADC)]] — everything sensed starts analog.
+- [[wiki/concepts/three-point-clamping|Three-point clamping]] — three-jaw chuck principle, applied to bearing pockets.
+- [[wiki/concepts/soldering-header-pins|Soldering header pins]] — workflow for tacking 0.1" headers without helping hands.
+- [[wiki/concepts/solder-bridging|Solder bridging]] — deliberately joining adjacent pads to make a power/ground rail.
+- [[wiki/concepts/plc-programming|PLC programming]] — graphical-blocks logic exporting to Arduino-compatible C++.
+- [[wiki/concepts/plc-relay-control|PLC relay control]] — PLC outputs energize external relays in series with manual switches.
+- [[wiki/concepts/i2c-sensor-integration|I2C sensor integration]] — read sensor over I2C, republish threshold as digital GPIO.
+- [[wiki/concepts/system-power-distribution|System power distribution]] — wall AC → e-stop → PSU → DIN-rail layout.
+- [[wiki/concepts/manual-override-coexistence|Manual override coexistence]] — PLC relay wired in series with manual switch.
+- [[wiki/concepts/squeeze-out-verification|Squeeze-out verification]] — bead-of-glue squish check for full-contact bonds.
+- [[wiki/concepts/dead-band-compensation|Dead-band compensation]] — piecewise duty-cycle map for DC motor friction zone.
+- [[wiki/concepts/teardrop-holes|Teardrop holes]] — support-free vertical-plane holes in FDM parts.
+- [[wiki/concepts/symmetric-not-identical|Symmetric, not identical]] — left/right mirrored parts vs. either-side parts.
+- [[wiki/concepts/heat-set-insert-installation|Heat-set insert installation]] — melt brass insert into FDM plastic with soldering iron.
+- [[wiki/concepts/power-budget-method|Power-budget method]] — spreadsheet-driven mechatronics power projection.
+- [[wiki/concepts/delta-power-measurement|Delta power measurement]] — sensor draw via host-current difference, idle vs active.
+- [[wiki/concepts/prototype-product-commodity-spectrum|Prototype/product/commodity spectrum]] — three-regime parts economics.
+- [[wiki/concepts/digital-manufacturing|Digital manufacturing]] — digital-to-finished-part fabrication mirrors software economics.
+- [[wiki/concepts/female-on-wire-rule|Female-on-wire rule]] — connector safety: females on the wire, males on the board.
+- [[wiki/concepts/multi-contact-housing-rule|Multi-contact housing rule]] — never crimp into a single-position housing.
+- [[wiki/concepts/off-the-shelf-instead-of-crimping|Off-the-shelf instead of crimping]] — pre-crimped jumpers beat hand-crimping.
+- [[wiki/concepts/die-orientation-rule|Die orientation rule]] — Anderson tongue-down on die floor.
+- [[wiki/concepts/clip-before-power-rule|Clip-before-power rule]] — alligator-clip safety order.
+- [[wiki/concepts/software-as-tool|Software as tool]] — software as universal calculator, not a discipline.
+- [[wiki/concepts/crimping|Crimping]] — anchor concept for the wire-prep curriculum.
+- [[wiki/concepts/wire-gauge-selection|Wire-gauge selection]] — AWG choice constrains terminal family and current rating.
+- [[wiki/concepts/tug-test|Tug test]] — pull-test verification of crimp quality.
+- [[wiki/concepts/bio-inspired-dynamics|Bio-inspired dynamics]] — six-principle framework; small-mass-first, no-base-reaction, etc.
+- [[wiki/concepts/vision-driven-kinematics|Vision-driven kinematics]] — measure end-effector + target only, skip joint encoders.
+- [[wiki/concepts/counterbalanced-scara|Counterbalanced SCARA]] — mass on opposite side eliminates base reaction.
+- [[wiki/concepts/working-placeholder-design|Working placeholder design]] — ship documented mediocre over hidden great.
+- [[wiki/concepts/accessibility-through-documentation|Accessibility through documentation]] — docs as on-ramp for downstream contributors.
+- [[wiki/concepts/characterize-digitize-parametrize|Characterize → digitize → parametrize]] — three-step path to a parametric model.
+- [[wiki/concepts/constraint-driven-sketching|Constraint-driven sketching]] — fewer hard dimensions, more relational constraints.
+- [[wiki/concepts/cad-configurations|CAD configurations]] — single-file multi-size variants via configurations + globals.
+- [[wiki/concepts/hotkey-bound-ocr|Hotkey-bound OCR]] — productivity pattern: hotkey to OCR-screenshot-to-clipboard.
+- [[wiki/concepts/tip-temperature-by-flux-melt|Tip temperature by flux melt]] — verify iron temperature by melting flux.
+- [[wiki/concepts/crimp-orientation|Crimp orientation]] — crush dimple at 12 or 6 o'clock, never sideways.
+- [[wiki/concepts/democratization-of-technology|Democratization of technology]] — handing tech-force to a population, distinct from "free."
+- [[wiki/concepts/economic-vs-democratic-force|Economic vs. democratic force]] — finite buying power vs. unlimited cooperation.
+- [[wiki/concepts/design-for-3d-printing|Design for 3D printing]] — methodology distinct from injection-molding-oriented design.
+- [[wiki/concepts/pneumatic-fitting-conversion|Pneumatic fitting conversion]] — NPT-tap a fire-extinguisher pressure vessel.
+- [[wiki/concepts/pareto-front|Pareto front]] — non-dominated optima curve across competing objectives.
+- [[wiki/concepts/genetic-algorithm-plus-gradient|Genetic algorithm + gradient]] — two-stage optimizer: GA discrete + SQP continuous.
+- [[wiki/concepts/sensitivity-analysis|Sensitivity analysis]] — vary each variable to find the high-leverage levers.
+- [[wiki/concepts/finite-element-analysis|Finite element analysis]] — mesh-based stress simulation; convergence study required.
+- [[wiki/concepts/n-squared-diagram|N-squared diagram]] — module coupling diagram showing data flow and feedback.
+- [[wiki/concepts/values-guides-activities-mapping|Values → guides → activities mapping]] — three-step methodology for life navigation.
+- [[wiki/concepts/rule-vs-guide|Rule vs. guide]] — guide is a rule with the failure-state subtracted.
+- [[wiki/concepts/running-toward-vs-running-away|Running toward vs. running away]] — pursuit vs. escape diagnostic.
+- [[wiki/concepts/anchor-and-rope-metaphor|Anchor-and-rope metaphor]] — goal as anchor, values as the rope.
+- [[wiki/concepts/single-pump-aquaponics|Single-pump aquaponics]] — engineered water levels eliminate redundant pumps.
+- [[wiki/concepts/component-to-design-ratio|Component-to-design ratio]] — bought-in-modules vs. designed-in-house mix.
+- [[wiki/concepts/function-overlap-with-module|Function overlap with module]] — design into module interfaces when function overlaps.
+- [[wiki/concepts/mobile-robot-as-mobile-sensor|Mobile robot as mobile sensor]] — robot as data carrier rather than manipulator.
+- [[wiki/concepts/standards-as-open-source|Standards as open source]] — shared interfaces ARE the open-source layer.
+- [[wiki/concepts/compliance-clamping|Compliance clamping]] — fastener-free plastic gripping via elastic compliance.
+- [[wiki/concepts/chip-break-tapping|Chip-break tapping]] — partial-reverse method for cleaner threads.
+- [[wiki/concepts/phillips-size-as-torque-limiter|Phillips size as torque limiter]] — Phillips cam-out as design intent.
+- [[wiki/concepts/technician-level-mechatronics|Technician-level mechatronics]] — proposed degree philosophy: assemble open modules.
+- [[wiki/concepts/pc-evolution-analogy-for-robotics|PC evolution analogy for robotics]] — robotics-as-PC-1995 framing.
+- [[wiki/concepts/datasheet-vs-real-world-fit|Datasheet vs. real-world fit]] — spec to the tolerance band, not the centerline.
+- [[wiki/concepts/linux-partition-inspection|Linux partition inspection]] — fdisk -l + df -h reflex on a Linux SBC.
+- [[wiki/concepts/sd-card-partition-expansion|SD-card partition expansion]] — first-boot grow-image to fill the card.
+- [[wiki/concepts/tinning-stranded-wire|Tinning stranded wire]] — pre-solder before screw-terminal clamp.
+- [[wiki/concepts/node-red-flow-export-import|Node-RED flow export/import]] — clipboard-Gist round-trip for sharing dashboards.
+- [[wiki/concepts/telemetry-via-flat-files|Telemetry via flat files]] — text files as decoupled IPC for runtime/UI.
+- [[wiki/concepts/kinematics-sign-check|Kinematics sign check]] — right-wheel-only spin should yield +X-dot and +theta-dot.
+- [[wiki/concepts/source-linked-gist|Source-linked gist]] — paste Gist URL into the source code that produces its data.
+- [[wiki/concepts/proportional-control|Proportional control]] — u_p = Kp × error feedback term.
+- [[wiki/concepts/pid-control|PID control]] — proportional + integral + derivative scaffold.
+- [[wiki/concepts/runtime-tunable-parameters|Runtime-tunable parameters]] — read gains from a flat file written by the UI.
+- [[wiki/concepts/closed-loop-feedback|Closed-loop feedback]] — measured-minus-target error drives the actuator.
+- [[wiki/concepts/control-oscillation|Control oscillation]] — overshoot / undershoot / repeat as Kp rises.
+- [[wiki/concepts/design-commonization|Design commonization]] — same printed part at multiple joints to shrink BOM.
+- [[wiki/concepts/snap-fit-bearing-mount|Snap-fit bearing mount]] — three printed nubs grip a 608 bearing's inner race.
+- [[wiki/concepts/counterweight-design|Counterweight design]] — mass behind pivot to drop joint torque.
+- [[wiki/concepts/cable-routing-through-structure|Cable routing through structure]] — wires through internal tube/bracket channels.
+- [[wiki/concepts/layered-software-architecture|Layered software architecture]] — SCUTTLE's L1/L2/L3 split.
+- [[wiki/concepts/standalone-testable-modules|Standalone-testable modules]] — commented-out test loop per module.
+- [[wiki/concepts/bottom-up-troubleshooting|Bottom-up troubleshooting]] — validate hardware, then L1, then L2, then L3.
+- [[wiki/concepts/explicit-signal-labeling|Explicit signal labeling]] — name every wire with the quantity it carries.
+- [[wiki/concepts/multithreading-as-cooperation|Multithreading as cooperation]] — threads help only when the bottleneck is wait time.
+- [[wiki/concepts/gp1-as-debug-port|GP1 as debug port]] — BeagleBone Blue GP1 outputs mirror user LEDs.
+- [[wiki/concepts/apparent-size-ranging|Apparent-size ranging]] — known-object dimension + image size = distance.
+- [[wiki/concepts/differential-drive-kinematics|Differential-drive kinematics]] — wheel speeds → linear and angular velocity.
+- [[wiki/concepts/rotation-matrix|Rotation matrix]] — rotate local-frame velocity into the global frame.
+- [[wiki/concepts/numerical-integration-of-pose|Numerical integration of pose]] — accumulate global increments per tick.
+- [[wiki/concepts/threshold-switching-control|Threshold-switching control]] — bang-bang on theta_gap vs span.
+- [[wiki/concepts/sensor-calibration|Sensor calibration]] — sweep min/max, rescale, center.
+- [[wiki/concepts/relative-vs-absolute-orientation|Relative vs absolute orientation]] — encoders vs magnetometer.
+- [[wiki/concepts/mqtt|MQTT]] — pub/sub IoT messaging protocol; SCUTTLE telemetry backbone.
+- [[wiki/concepts/iot-data-flow|IoT data flow]] — file → Node-RED → MQTT → broker → MQTT → Node-RED → file pipeline.
+- [[wiki/concepts/stress-concentration|Stress concentration]] — loads bunch at small radii; helmet-fit metaphor.
+- [[wiki/concepts/file-as-ipc|File as IPC]] — flat file as inter-process channel.
+- [[wiki/concepts/free-upgrades|Free upgrades]] — same-price-better-outcome default substitution.
+- [[wiki/concepts/m2m-iot-communication|M2M / IoT communication]] — machine-to-machine pub/sub paradigm.
+- [[wiki/concepts/poka-yoke|Poka-yoke]] — Toyota mistake-proofing; can't-assemble-it-wrong design.
+- [[wiki/concepts/leveraging-physical-testing|Leveraging physical testing]] — "no FEA can tell you that" motif.
+- [[wiki/concepts/manual-feature-recognition|Manual feature recognition]] — walk SolidWorks through STEP feature-by-feature.
+- [[wiki/concepts/global-variable-driven-pattern|Global-variable-driven pattern]] — patterns + global variables + configurations.
+- [[wiki/concepts/semver-for-hardware|Semver for hardware]] — major.minor versioning for assemblies and parts.
+- [[wiki/concepts/sim-to-real-handoff|Sim-to-real handoff]] — single SDK runs sim and physical robot.
+- [[wiki/concepts/gravity-overflow-pressure-regulation|Gravity overflow pressure regulation]] — oversize pump + standpipe overflow self-regulates aquaponics flow.
+- [[wiki/concepts/glue-free-pvc-assembly|Glue-free PVC assembly]] — friction + band-clamps over cement for serviceability.
+- [[wiki/concepts/air-pruning|Air pruning]] — porous fabric grow-bag walls redirect root growth.
+- [[wiki/concepts/45-degree-overhang-rule|45-degree overhang rule]] — keep FDM overhangs above 45 degrees to skip supports.
+- [[wiki/concepts/screw-measurement-conventions|Screw measurement conventions]] — countersunk top-of-head; pan-head bottom-of-head.
+- [[wiki/concepts/wire-length-specification|Wire-length specification]] — publish exact pre-strip wire lengths in build docs.
+- [[wiki/concepts/insulation-shoulder-as-depth-gauge|Insulation shoulder as depth gauge]] — natural shoulder sets crimp depth without measurement.
+- [[wiki/concepts/one-handed-crimp-rule|One-handed crimp rule]] — properly matched dies close with one hand.
+- [[wiki/concepts/just-shy-of-flush-rule|Just-shy-of-flush rule]] — heat-set inserts pressed shy of flush, then nudged when cool.
+- [[wiki/concepts/u-shape-strand-prep|U-shape strand prep]] — fold stripped wire into a U before soldering to heat-loss pins.
+- [[wiki/concepts/heat-the-joint-not-the-solder|Heat the joint, not the solder]] — bring iron to joint, then feed solder into the joint.
+- [[wiki/concepts/rosin-flux-pen-priming|Rosin flux pen priming]] — apply liquid rosin flux to both sides of a joint before soldering.
+- [[wiki/concepts/dupont-crimping|DuPont crimping]] — shelf-and-die two-stage compression for 2.54 mm DuPont housings.
+- [[wiki/concepts/connector-anatomy|Connector anatomy]] — name connector regions before crimping (insulation grip, conductor grip, mating zone).
+- [[wiki/concepts/strip-then-trim|Strip-then-trim]] — strip long with the wrong-gauge tool, snip back to length to avoid losing strands.
+- [[wiki/concepts/convert-entities|Convert entities]] — SolidWorks projection of existing edges into the active sketch.
+- [[wiki/concepts/circular-pattern|Circular pattern]] — SolidWorks feature for repeating around an axis.
+- [[wiki/concepts/assembly-sequencing|Assembly sequencing]] — deliberate order of operations for interdependent parts.
+- [[wiki/concepts/plastic-as-temporary-fixture|Plastic as temporary fixture]] — tack header plastic to a hot iron tip to hold vertical without helping hands.
+- [[wiki/concepts/wheel-slip-diagnosis|Wheel slip diagnosis]] — interpret which wheel slips and how easily as a chassis-level signal.
+- [[wiki/concepts/chassis-leveling|Chassis leveling]] — physically level a chassis to equalize wheel loading.
+- [[wiki/concepts/c-rate|C-rate]] — battery discharge rate normalized to 1-hour capacity.
+- [[wiki/concepts/series-cell-balancing|Series cell balancing]] — keep cells in a series pack within voltage tolerance.
+- [[wiki/concepts/cups-of-water-cell-analogy|Cups-of-water cell analogy]] — David's pedagogical model for series-pack imbalance.
+- [[wiki/concepts/individual-cell-charging|Individual cell charging]] — remove cells and charge them in single-cell controllers.
+- [[wiki/concepts/wrapper-rescue-with-heat-gun|Wrapper rescue with heat gun]] — gently re-shrink a partially peeled 18650 wrapper.
+- [[wiki/concepts/ssh-tab-completion-discovery|SSH tab-completion discovery]] — type a known prefix and Tab to surface available commands.
+- [[wiki/concepts/sudo-required-utility|Sudo-required utility]] — recognize "must run as root" and re-issue with sudo.
+- [[wiki/concepts/live-telemetry-readout|Live-telemetry readout]] — continuously updating CLI monitor for system signals.
+- [[wiki/concepts/protoboard-grid-cutting|Protoboard grid cutting]] — silkscreen letters as deterministic cut guides for perfboard.
+- [[wiki/concepts/silkscreen-as-fab-guide|Silkscreen as fab guide]] — leverage silkscreen markings for fabrication, not just assembly.
+- [[wiki/concepts/clip-onto-extrusion-mounting|Clip-onto-extrusion mounting]] — printed bracket with integrated clip snaps onto chassis rod.
+- [[wiki/concepts/pin-clearance-shelf|Pin-clearance shelf]] — relieved pocket below a PCB so through-hole pins don't bottom.
+- [[wiki/concepts/connector-orientation-for-cable-reach|Connector orientation for cable reach]] — pick PCB orientation to minimize cable strain.
+- [[wiki/concepts/solvent-welding|Solvent welding]] — bond plastics by softening polymer with solvent so parts fuse on cure.
+- [[wiki/concepts/gap-filling-adhesion|Gap-filling adhesion]] — use enough adhesive volume that capillary action fills void in imperfect mating.
+- [[wiki/concepts/multibody-modeling|Multibody modeling]] — keep multiple solid bodies in one SolidWorks part file.
+- [[wiki/concepts/merge-result-toggle|Merge result toggle]] — SolidWorks checkbox controlling whether new feature fuses with existing bodies.
+- [[wiki/concepts/3d-print-porosity-sealing|3D-print porosity sealing]] — use a solvent to wick into and seal inter-extrusion gaps in FDM prints.
+- [[wiki/concepts/journalctl-grep-debug|journalctl-grep debug]] — use `journalctl | grep <module>` to surface kernel/driver messages.
+- [[wiki/concepts/soft-ap-discovery|Soft-AP discovery]] — discover the auto-generated SSID of a device's built-in access point.
+- [[wiki/concepts/ssh-over-usb|SSH over USB]] — SSH into an embedded board via USB-emulated network.
+- [[wiki/concepts/mqtt-topic-wildcards|MQTT topic wildcards]] — `+` and `#` for hierarchical MQTT subscriptions.
+- [[wiki/concepts/mqtt-quality-of-service|MQTT quality of service]] — QoS 0/1/2 per published MQTT message.
+- [[wiki/concepts/node-red-dashboard|Node-RED dashboard]] — gauges, charts, inputs visualizing MQTT data.
+- [[wiki/concepts/open-loop-control|Open-loop control]] — drive an actuator without measuring resulting state.
+- [[wiki/concepts/integral-windup|Integral windup]] — accumulating integral error in a PID loop causing overshoot.
+- [[wiki/concepts/wpa-enterprise-setup|WPA-Enterprise setup]] — configure Linux to authenticate to enterprise (username + password) Wi-Fi.
+- [[wiki/concepts/cloud9-ide-workflow|Cloud9 IDE workflow]] — edit files on an embedded board via in-browser Cloud9.
+- [[wiki/concepts/raw-github-paste|Raw GitHub paste]] — copy from GitHub Raw view rather than cloning.

@@ -1,0 +1,808 @@
+{
+  "schema_version": "2.0.0",
+  "channel": {
+    "channel_id": "UCwirLDXiN1ybgPyIDNt85PA",
+    "handle": "@davidmalawey",
+    "name": "David Malawey",
+    "canonical_url": "https://www.youtube.com/@davidmalawey",
+    "channel_url": "https://www.youtube.com/channel/UCwirLDXiN1ybgPyIDNt85PA",
+    "description": "Jack of engineerings and a master of science. (also a master of none) ☺️\n\n[October 2025 News]\nI initiated a Patreon because we can do more with some help! The big landmark goal is to get a helper - with video, lab builds, online documentation, any of my hats.\n\n[About]\nI'm an educator for robotics, mechatronics, multidisciplinary engineering. All my videos are backed by FREE, OPEN-SOURCE designs, publications, CAD models & more! What's unique about my channel? The community is packed with experts, far smarter than myself! Ask technical questions on any video, and you'll get fantastic answers! \n\n[Links]\nWebsite ► see lots of community projects (like an index)\nAmazon ► affiliate shopping lists (tools, supplies, etc)\nDiscord ► Community space to support each others' designs\nThe SCUTTLE Robot Project ► open source robot platform, many applications\nOpen Designs on grabCAD ► my posted models, parametric, open, & flexible\nGithub ► several repositories for documentation of open projects\n\n",
+    "keywords": "Robotics education \"3d printing\" CAD learning mechatronics open source",
+    "keywords_array": [
+      "Robotics",
+      "education",
+      "3d printing",
+      "CAD",
+      "learning",
+      "mechatronics",
+      "open",
+      "source"
+    ],
+    "attribution_link": "qr.net/openlabproject",
+    "owner_urls": [
+      "http://www.youtube.com/@davidmalawey"
+    ],
+    "vanity_channel_url": "http://www.youtube.com/@davidmalawey",
+    "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwirLDXiN1ybgPyIDNt85PA",
+    "subscriber_count_label": "100K subscribers",
+    "subscriber_count_approx": 100000,
+    "videos_count_label": "630 videos",
+    "videos_count_approx": 630,
+    "avatar_urls": [
+      "https://yt3.googleusercontent.com/XwqOkSGH7fCQSbckGSY-P6ZfjK0rK5_kKUPrqEuJCxTT7XZ41J_cxQ9HUbc9ksd2rWcpsSWuTA=s72-c-k-c0x00ffffff-no-rj",
+      "https://yt3.googleusercontent.com/XwqOkSGH7fCQSbckGSY-P6ZfjK0rK5_kKUPrqEuJCxTT7XZ41J_cxQ9HUbc9ksd2rWcpsSWuTA=s120-c-k-c0x00ffffff-no-rj",
+      "https://yt3.googleusercontent.com/XwqOkSGH7fCQSbckGSY-P6ZfjK0rK5_kKUPrqEuJCxTT7XZ41J_cxQ9HUbc9ksd2rWcpsSWuTA=s160-c-k-c0x00ffffff-no-rj"
+    ],
+    "banner_urls": [
+      "https://yt3.googleusercontent.com/uogrTED7fZ5pPaXy-dO0A0Lf7Xfp2HRdRoQDYCW09iWBmkmLAJCIG5vMSGcNeCLhD2XwYBu-Tg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "https://yt3.googleusercontent.com/uogrTED7fZ5pPaXy-dO0A0Lf7Xfp2HRdRoQDYCW09iWBmkmLAJCIG5vMSGcNeCLhD2XwYBu-Tg=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "https://yt3.googleusercontent.com/uogrTED7fZ5pPaXy-dO0A0Lf7Xfp2HRdRoQDYCW09iWBmkmLAJCIG5vMSGcNeCLhD2XwYBu-Tg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "https://yt3.googleusercontent.com/uogrTED7fZ5pPaXy-dO0A0Lf7Xfp2HRdRoQDYCW09iWBmkmLAJCIG5vMSGcNeCLhD2XwYBu-Tg=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "https://yt3.googleusercontent.com/uogrTED7fZ5pPaXy-dO0A0Lf7Xfp2HRdRoQDYCW09iWBmkmLAJCIG5vMSGcNeCLhD2XwYBu-Tg=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "https://yt3.googleusercontent.com/uogrTED7fZ5pPaXy-dO0A0Lf7Xfp2HRdRoQDYCW09iWBmkmLAJCIG5vMSGcNeCLhD2XwYBu-Tg=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    ],
+    "is_family_safe": true,
+    "available_country_codes": [
+      "HU",
+      "LT",
+      "IT",
+      "VG",
+      "HK",
+      "CH",
+      "AQ",
+      "BS",
+      "BY",
+      "VN",
+      "SX",
+      "MK",
+      "CY",
+      "AU",
+      "PG",
+      "ZM",
+      "MW",
+      "RS",
+      "IO",
+      "SZ",
+      "SC",
+      "ZW",
+      "FM",
+      "HT",
+      "BA",
+      "AF",
+      "TT",
+      "BI",
+      "AL",
+      "GH",
+      "AS",
+      "JE",
+      "EH",
+      "ER",
+      "NO",
+      "TD",
+      "AE",
+      "CF",
+      "BM",
+      "GF",
+      "GL",
+      "RE",
+      "SM",
+      "SN",
+      "GT",
+      "DJ",
+      "BL",
+      "KP",
+      "KR",
+      "AW",
+      "FO",
+      "IE",
+      "LB",
+      "AO",
+      "CI",
+      "NR",
+      "VU",
+      "MZ",
+      "WF",
+      "MQ",
+      "TJ",
+      "CV",
+      "EG",
+      "ES",
+      "SY",
+      "TW",
+      "GB",
+      "GM",
+      "UM",
+      "VE",
+      "LC",
+      "SS",
+      "GG",
+      "NP",
+      "TL",
+      "TC",
+      "MT",
+      "GQ",
+      "MD",
+      "MF",
+      "GY",
+      "TO",
+      "DK",
+      "BE",
+      "MM",
+      "LI",
+      "NA",
+      "PR",
+      "BT",
+      "SV",
+      "ZA",
+      "EE",
+      "UZ",
+      "BQ",
+      "MO",
+      "MX",
+      "NC",
+      "WS",
+      "LK",
+      "PE",
+      "PL",
+      "TG",
+      "BZ",
+      "BJ",
+      "CA",
+      "SE",
+      "GR",
+      "CN",
+      "JP",
+      "NF",
+      "NZ",
+      "GE",
+      "RO",
+      "SB",
+      "CZ",
+      "AT",
+      "NL",
+      "RW",
+      "DE",
+      "ID",
+      "IR",
+      "KM",
+      "PW",
+      "GU",
+      "PK",
+      "NU",
+      "BF",
+      "RU",
+      "SD",
+      "JM",
+      "LY",
+      "SR",
+      "PA",
+      "PM",
+      "YE",
+      "TN",
+      "US",
+      "ML",
+      "MU",
+      "CO",
+      "BN",
+      "AD",
+      "GW",
+      "TH",
+      "IN",
+      "GN",
+      "JO",
+      "IS",
+      "MS",
+      "ST",
+      "MG",
+      "BD",
+      "LA",
+      "PS",
+      "SG",
+      "AZ",
+      "AG",
+      "BG",
+      "HM",
+      "KY",
+      "MN",
+      "FI",
+      "NE",
+      "CW",
+      "BH",
+      "CX",
+      "DZ",
+      "KH",
+      "PN",
+      "CG",
+      "PT",
+      "PY",
+      "LS",
+      "YT",
+      "GS",
+      "GD",
+      "TK",
+      "AX",
+      "AM",
+      "UA",
+      "AR",
+      "DO",
+      "FK",
+      "SI",
+      "VI",
+      "MP",
+      "KN",
+      "KG",
+      "CR",
+      "QA",
+      "IL",
+      "SK",
+      "NG",
+      "ET",
+      "MA",
+      "BW",
+      "NI",
+      "SJ",
+      "BB",
+      "TR",
+      "PH",
+      "TM",
+      "CD",
+      "CK",
+      "FJ",
+      "KI",
+      "MH",
+      "VA",
+      "MY",
+      "PF",
+      "SH",
+      "GI",
+      "EC",
+      "GP",
+      "OM",
+      "SA",
+      "SL",
+      "SO",
+      "KW",
+      "UY",
+      "CL",
+      "CU",
+      "TZ",
+      "BO",
+      "MV",
+      "KZ",
+      "UG",
+      "HN",
+      "VC",
+      "MC",
+      "TF",
+      "LU",
+      "MR",
+      "BR",
+      "HR",
+      "CC",
+      "IQ",
+      "CM",
+      "LV",
+      "LR",
+      "TV",
+      "IM",
+      "GA",
+      "FR",
+      "ME",
+      "AI",
+      "DM",
+      "BV",
+      "KE"
+    ],
+    "tabs_detected": [
+      "Home",
+      "Videos",
+      "Shorts",
+      "Podcasts",
+      "Playlists",
+      "Posts"
+    ],
+    "tabs_absent": [
+      "Live",
+      "Store",
+      "About"
+    ],
+    "about": null
+  },
+  "harvest": {
+    "captured_at": "2026-04-24T02:19:47.976Z",
+    "skills_run": [
+      "yt-channel-structured-data",
+      "yt-channel-inventory (earlier run)",
+      "yt-channel-shorts",
+      "yt-channel-podcasts",
+      "yt-channel-playlists",
+      "yt-channel-posts",
+      "yt-channel-featured"
+    ],
+    "method": "innertube-browse-api",
+    "notes": "About-modal data (joined date, total channel views, business-email flag) not harvested this pass — requires UI click. Description + keywords + attribution link captured from channelMetadataRenderer + pageHeaderViewModel, which are accessible without the modal."
+  },
+  "structured_data": {
+    "meta": {
+      "theme-color": "rgba(33, 33, 33, 0.98)",
+      "description": "Jack of engineerings and a master of science. (also a master of none) ☺️[October 2025 News]I initiated a Patreon because we can do more with some help! The ...",
+      "keywords": "Robotics education \"3d printing\" CAD learning mechatronics open source",
+      "twitter:card": "summary",
+      "twitter:site": "@youtube",
+      "twitter:url": "https://www.youtube.com/channel/UCwirLDXiN1ybgPyIDNt85PA",
+      "twitter:title": "David Malawey",
+      "twitter:description": "Jack of engineerings and a master of science. (also a master of none) ☺️\n\n[October 2025 News]\nI initiated a Patreon because we can do more with some help! The big landmark goal is to get a helper - with video, lab builds, online documentation, any of my hats.\n\n[About]\nI'm an educator for robotics, mechatronics, multidisciplinary engineering. All my videos are backed by FREE, OPEN-SOURCE designs, publications, CAD models & more! What's unique about my channel? The community is packed with experts, far smarter than myself! Ask technical questions on any video, and you'll get fantastic answers! \n\n[Links]\nWebsite ► see lots of community projects (like an index)\nAmazon ► affiliate shopping lists (tools, supplies, etc)\nDiscord ► Community space to support each others' designs\nThe SCUTTLE Robot Project ► open source robot platform, many applications\nOpen Designs on grabCAD ► my posted models, parametric, open, & flexible\nGithub ► several repositories for documentation of open projects\n\n",
+      "twitter:image": "https://yt3.googleusercontent.com/XwqOkSGH7fCQSbckGSY-P6ZfjK0rK5_kKUPrqEuJCxTT7XZ41J_cxQ9HUbc9ksd2rWcpsSWuTA=s900-c-k-c0x00ffffff-no-rj",
+      "twitter:app:name:iphone": "YouTube",
+      "twitter:app:id:iphone": "544007664",
+      "twitter:app:name:ipad": "YouTube",
+      "twitter:app:id:ipad": "544007664",
+      "twitter:app:url:iphone": "vnd.youtube://www.youtube.com/channel/UCwirLDXiN1ybgPyIDNt85PA",
+      "twitter:app:url:ipad": "vnd.youtube://www.youtube.com/channel/UCwirLDXiN1ybgPyIDNt85PA",
+      "twitter:app:name:googleplay": "YouTube",
+      "twitter:app:id:googleplay": "com.google.android.youtube",
+      "twitter:app:url:googleplay": "https://www.youtube.com/channel/UCwirLDXiN1ybgPyIDNt85PA",
+      "viewport": "width=device-width, initial-scale=1.0, viewport-fit=cover"
+    },
+    "og": {
+      "og:title": "David Malawey",
+      "og:site_name": "YouTube",
+      "og:url": "https://www.youtube.com/channel/UCwirLDXiN1ybgPyIDNt85PA",
+      "og:image": "https://yt3.googleusercontent.com/XwqOkSGH7fCQSbckGSY-P6ZfjK0rK5_kKUPrqEuJCxTT7XZ41J_cxQ9HUbc9ksd2rWcpsSWuTA=s900-c-k-c0x00ffffff-no-rj",
+      "og:image:width": "900",
+      "og:image:height": "900",
+      "og:description": "Jack of engineerings and a master of science. (also a master of none) ☺️\n\n[October 2025 News]\nI initiated a Patreon because we can do more with some help! The big landmark goal is to get a helper - with video, lab builds, online documentation, any of my hats.\n\n[About]\nI'm an educator for robotics, mechatronics, multidisciplinary engineering. All my videos are backed by FREE, OPEN-SOURCE designs, publications, CAD models & more! What's unique about my channel? The community is packed with experts, far smarter than myself! Ask technical questions on any video, and you'll get fantastic answers! \n\n[Links]\nWebsite ► see lots of community projects (like an index)\nAmazon ► affiliate shopping lists (tools, supplies, etc)\nDiscord ► Community space to support each others' designs\nThe SCUTTLE Robot Project ► open source robot platform, many applications\nOpen Designs on grabCAD ► my posted models, parametric, open, & flexible\nGithub ► several repositories for documentation of open projects\n\n",
+      "og:type": "profile"
+    },
+    "og_video_tag": [
+      "Robotics",
+      "education",
+      "3d printing",
+      "CAD",
+      "learning",
+      "mechatronics",
+      "open",
+      "source"
+    ],
+    "itemprop": {
+      "name": [
+        "David Malawey",
+        "David Malawey"
+      ],
+      "description": "Jack of engineerings and a master of science. (also a master of none) ☺️\n\n[October 2025 News]\nI initiated a Patreon because we can do more with some help! The big landmark goal is to get a helper - with video, lab builds, online documentation, any of my hats.\n\n[About]\nI'm an educator for robotics, mechatronics, multidisciplinary engineering. All my videos are backed by FREE, OPEN-SOURCE designs, publications, CAD models & more! What's unique about my channel? The community is packed with experts, far smarter than myself! Ask technical questions on any video, and you'll get fantastic answers! \n\n[Links]\nWebsite ► see lots of community projects (like an index)\nAmazon ► affiliate shopping lists (tools, supplies, etc)\nDiscord ► Community space to support each others' designs\nThe SCUTTLE Robot Project ► open source robot platform, many applications\nOpen Designs on grabCAD ► my posted models, parametric, open, & flexible\nGithub ► several repositories for documentation of open projects\n\n",
+      "requiresSubscription": "False",
+      "identifier": "UCwirLDXiN1ybgPyIDNt85PA",
+      "position": "1",
+      "width": "900",
+      "height": "900",
+      "isFamilyFriendly": "true",
+      "regionsAllowed": "HU,LT,IT,VG,HK,CH,AQ,BS,BY,VN,SX,MK,CY,AU,PG,ZM,MW,RS,IO,SZ,SC,ZW,FM,HT,BA,AF,TT,BI,AL,GH,AS,JE,EH,ER,NO,TD,AE,CF,BM,GF,GL,RE,SM,SN,GT,DJ,BL,KP,KR,AW,FO,IE,LB,AO,CI,NR,VU,MZ,WF,MQ,TJ,CV,EG,ES,SY,TW,GB,GM,UM,VE,LC,SS,GG,NP,TL,TC,MT,GQ,MD,MF,GY,TO,DK,BE,MM,LI,NA,PR,BT,SV,ZA,EE,UZ,BQ,MO,MX,NC,WS,LK,PE,PL,TG,BZ,BJ,CA,SE,GR,CN,JP,NF,NZ,GE,RO,SB,CZ,AT,NL,RW,DE,ID,IR,KM,PW,GU,PK,NU,BF,RU,SD,JM,LY,SR,PA,PM,YE,TN,US,ML,MU,CO,BN,AD,GW,TH,IN,GN,JO,IS,MS,ST,MG,BD,LA,PS,SG,AZ,AG,BG,HM,KY,MN,FI,NE,CW,BH,CX,DZ,KH,PN,CG,PT,PY,LS,YT,GS,GD,TK,AX,AM,UA,AR,DO,FK,SI,VI,MP,KN,KG,CR,QA,IL,SK,NG,ET,MA,BW,NI,SJ,BB,TR,PH,TM,CD,CK,FJ,KI,MH,VA,MY,PF,SH,GI,EC,GP,OM,SA,SL,SO,KW,UY,CL,CU,TZ,BO,MV,KZ,UG,HN,VC,MC,TF,LU,MR,BR,HR,CC,IQ,CM,LV,LR,TV,IM,GA,FR,ME,AI,DM,BV,KE"
+    },
+    "link_rels": [
+      {
+        "rel": "shortcut icon",
+        "href": "https://www.youtube.com/s/desktop/f5d14552/img/favicon.ico",
+        "type": "image/x-icon"
+      },
+      {
+        "rel": "icon",
+        "href": "https://www.youtube.com/s/desktop/f5d14552/img/favicon_32x32.png",
+        "type": null
+      },
+      {
+        "rel": "icon",
+        "href": "https://www.youtube.com/s/desktop/f5d14552/img/favicon_48x48.png",
+        "type": null
+      },
+      {
+        "rel": "icon",
+        "href": "https://www.youtube.com/s/desktop/f5d14552/img/favicon_96x96.png",
+        "type": null
+      },
+      {
+        "rel": "icon",
+        "href": "https://www.youtube.com/s/desktop/f5d14552/img/favicon_144x144.png",
+        "type": null
+      },
+      {
+        "rel": "preload",
+        "href": "https://i.ytimg.com/generate_204",
+        "type": null
+      },
+      {
+        "rel": "preload",
+        "href": "https://www.youtube.com/s/_/ytmainappweb/_/js/k=ytmainappweb.kevlar_base.en_US.YI__ONExm14.es5.O/am=AAAAEAAABgg/d=1/br=1/rs=AGKMywG5IBftgGcLsv9vqB5B2N1JLrsI2g/m=kevlar_base_module,kevlar_main_module",
+        "type": null
+      },
+      {
+        "rel": "stylesheet",
+        "href": "//fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&family=YouTube+Sans:wght@300..900&display=swap",
+        "type": null
+      },
+      {
+        "rel": "stylesheet",
+        "href": "https://www.youtube.com/s/desktop/f5d14552/cssbin/www-onepick-2x.css",
+        "type": null
+      },
+      {
+        "rel": "stylesheet",
+        "href": "https://www.youtube.com/s/_/ytmainappweb/_/ss/k=ytmainappweb.kevlar_base.03T1kgDzhm8.L.B1.O/am=AAAAEAAEBwg/d=0/br=1/rs=AGKMywHh1-kdkYQcKYLiEMcIhIq8la3qQg",
+        "type": null
+      },
+      {
+        "rel": "search",
+        "href": "https://www.youtube.com/opensearch?locale=en_US",
+        "type": "application/opensearchdescription+xml"
+      },
+      {
+        "rel": "manifest",
+        "href": "/manifest.webmanifest",
+        "type": null
+      },
+      {
+        "rel": "canonical",
+        "href": "https://www.youtube.com/channel/UCwirLDXiN1ybgPyIDNt85PA",
+        "type": null
+      },
+      {
+        "rel": "alternate",
+        "href": "https://m.youtube.com/@davidmalawey/videos",
+        "type": null
+      },
+      {
+        "rel": "alternate",
+        "href": "https://m.youtube.com/@davidmalawey/videos",
+        "type": null
+      },
+      {
+        "rel": "alternate",
+        "href": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwirLDXiN1ybgPyIDNt85PA",
+        "type": "application/rss+xml"
+      },
+      {
+        "rel": "image_src",
+        "href": "https://yt3.googleusercontent.com/XwqOkSGH7fCQSbckGSY-P6ZfjK0rK5_kKUPrqEuJCxTT7XZ41J_cxQ9HUbc9ksd2rWcpsSWuTA=s900-c-k-c0x00ffffff-no-rj",
+        "type": null
+      },
+      {
+        "rel": "stylesheet",
+        "href": "https://fonts.googleapis.com/css?family=Roboto:300italic,400italic,500italic,700italic",
+        "type": null
+      },
+      {
+        "rel": "stylesheet",
+        "href": "https://fonts.googleapis.com/css?family=Roboto+Mono:400",
+        "type": null
+      },
+      {
+        "rel": "stylesheet",
+        "href": "/s/player/8456c9de/www-player.css",
+        "type": null
+      },
+      {
+        "rel": "alternate",
+        "href": "android-app://com.google.android.youtube/http/www.youtube.com/channel/UCwirLDXiN1ybgPyIDNt85PA",
+        "type": null
+      },
+      {
+        "rel": "alternate",
+        "href": "ios-app://544007664/vnd.youtube/www.youtube.com/channel/UCwirLDXiN1ybgPyIDNt85PA",
+        "type": null
+      },
+      {
+        "rel": "stylesheet",
+        "href": "https://www.youtube.com/s/desktop/f5d14552/cssbin/www-main-desktop-watch-page-skeleton-2x.css",
+        "type": null
+      }
+    ],
+    "json_ld": []
+  },
+  "videos_summary": {
+    "count": 224,
+    "file": "inventory/@davidmalawey.json",
+    "note": "Full video list in sibling inventory file (harvested earlier)."
+  },
+  "shorts_summary": {
+    "count": 406,
+    "file": "scratch/shorts/@davidmalawey/2026-04-23.json",
+    "top_by_views": [
+      {
+        "video_id": "A8WZ5ik-8po",
+        "title": "carbide tooling changes the game for DIY, makers",
+        "views_label": "5.4M views",
+        "views_approx": 5400000
+      },
+      {
+        "video_id": "At0KjsYMsi0",
+        "title": "USB-C can replace alkaline batteries",
+        "views_label": "3.3M views",
+        "views_approx": 3300000
+      },
+      {
+        "video_id": "Uo7SUs2M54A",
+        "title": "Caution! circuits destroy regular drill bits!",
+        "views_label": "2.2M views",
+        "views_approx": 2200000
+      },
+      {
+        "video_id": "fWSVUxAs50s",
+        "title": "use clay for circuit projects #methods #mechatronics",
+        "views_label": "2.1M views",
+        "views_approx": 2100000
+      },
+      {
+        "video_id": "CzHxaEQjewM",
+        "title": "6 ways to fit your design together #3dprinting #diy #solidworks #design #engineering",
+        "views_label": "1.9M views",
+        "views_approx": 1900000
+      },
+      {
+        "video_id": "rrTfbkmzDMU",
+        "title": "Exhibit 1: borrow a tolerance, design 3D printed part with Axis.",
+        "views_label": "1.8M views",
+        "views_approx": 1800000
+      },
+      {
+        "video_id": "SGw4D1VoWIQ",
+        "title": "use magnesium to save your favorite tool from rust",
+        "views_label": "1.5M views",
+        "views_approx": 1500000
+      },
+      {
+        "video_id": "odikf7DWbpA",
+        "title": "Oxalyc Acid. know it, love it. don’t eat it.",
+        "views_label": "1M views",
+        "views_approx": 1000000
+      },
+      {
+        "video_id": "8bF8jxYwUM4",
+        "title": "what causes warping in my #3dprinting ?",
+        "views_label": "852K views",
+        "views_approx": 852000
+      },
+      {
+        "video_id": "3tW8U1KpCsk",
+        "title": "Borrow a tolerance! #3dprinting",
+        "views_label": "678K views",
+        "views_approx": 678000
+      }
+    ]
+  },
+  "podcasts": [
+    {
+      "playlist_id": "PLHkrnCQ5sDmeA67NYiHiI0cP571An2WRw",
+      "url": "https://www.youtube.com/playlist?list=PLHkrnCQ5sDmeA67NYiHiI0cP571An2WRw",
+      "title": "David_Malawey_T1",
+      "meta_row_texts": [
+        "View full podcast"
+      ]
+    }
+  ],
+  "playlists": [
+    {
+      "playlist_id": "PLHkrnCQ5sDmektRIe-nMpahnTCxZbD_dA",
+      "url": "https://www.youtube.com/playlist?list=PLHkrnCQ5sDmektRIe-nMpahnTCxZbD_dA",
+      "title": "Open Aquaponics",
+      "meta_row_texts": [
+        "View full playlist"
+      ]
+    },
+    {
+      "playlist_id": "PLHkrnCQ5sDmeA67NYiHiI0cP571An2WRw",
+      "url": "https://www.youtube.com/playlist?list=PLHkrnCQ5sDmeA67NYiHiI0cP571An2WRw",
+      "title": "David_Malawey_T1",
+      "meta_row_texts": [
+        "View full podcast"
+      ]
+    },
+    {
+      "playlist_id": "PLHkrnCQ5sDmcBviOIF7CSSqPEylC3W39X",
+      "url": "https://www.youtube.com/playlist?list=PLHkrnCQ5sDmcBviOIF7CSSqPEylC3W39X",
+      "title": "Design Strategies",
+      "meta_row_texts": [
+        "View full playlist"
+      ]
+    },
+    {
+      "playlist_id": "PLHkrnCQ5sDmfG4N7etjO2e75LMWyu3wX2",
+      "url": "https://www.youtube.com/playlist?list=PLHkrnCQ5sDmfG4N7etjO2e75LMWyu3wX2",
+      "title": "Design Tutorials",
+      "meta_row_texts": [
+        "View full playlist"
+      ]
+    },
+    {
+      "playlist_id": "PLHkrnCQ5sDmdzcNalF93xLLyLDsppHuJl",
+      "url": "https://www.youtube.com/playlist?list=PLHkrnCQ5sDmdzcNalF93xLLyLDsppHuJl",
+      "title": "Design Theory",
+      "meta_row_texts": [
+        "View full playlist"
+      ]
+    },
+    {
+      "playlist_id": "PLHkrnCQ5sDmd_-WS5qrLgztdBjd3RdOzb",
+      "url": "https://www.youtube.com/playlist?list=PLHkrnCQ5sDmd_-WS5qrLgztdBjd3RdOzb",
+      "title": "Economics of Mechanical Design",
+      "meta_row_texts": [
+        "View full playlist"
+      ]
+    },
+    {
+      "playlist_id": "PLHkrnCQ5sDmepQJptWiUThQrlfMxMjpOA",
+      "url": "https://www.youtube.com/playlist?list=PLHkrnCQ5sDmepQJptWiUThQrlfMxMjpOA",
+      "title": "OpenSource Robotics",
+      "meta_row_texts": [
+        "View full playlist"
+      ]
+    },
+    {
+      "playlist_id": "PLHkrnCQ5sDmdyelgZAIN76-Y_Tug1E4Ug",
+      "url": "https://www.youtube.com/playlist?list=PLHkrnCQ5sDmdyelgZAIN76-Y_Tug1E4Ug",
+      "title": "SCUTTLE Robot",
+      "meta_row_texts": [
+        "View full playlist"
+      ]
+    }
+  ],
+  "posts": [
+    {
+      "post_id": "Ugkx6z35I7fIp0k7a3NekYv4dufPE6vALdFi",
+      "url": "https://www.youtube.com/post/Ugkx6z35I7fIp0k7a3NekYv4dufPE6vALdFi",
+      "kind": "text",
+      "text_preview": "Hooray! 🎉 We have a 2026 Tape of the Year!\n📼 3M Micropore 1530-3!\n\nAmazon: https://amzn.to/4tn96bz\n\nThis is a tape that can do things I’ve tried in the past and failed! For example: 🔧\n1) I never found a tape that can reliably stick to fabric but it leaves no sticky residue. 🍯\n2) It also creates a surface that accepts marking and doesn’t bleed through. That means it’s perfect for labeling or adding information on surfaces that are too rough or too slick. Yet, you can remove & change your mind later. ✍️\n3) this tape can stretch slightly and conform to skin (of course it was designed for that) so I can use it like a bandaid that has less bulk and doesn’t feature bulky wrinkles that interfere with using a cut finger. 🩹 See the image with this tape pulled in a shear direction. Most tap",
+      "published_label": "3 days ago (edited)",
+      "like_count_label": "385",
+      "attachment_video_id": null,
+      "poll_options": null
+    },
+    {
+      "post_id": "UgkxHGP7u5zI-wsWsrJajhkltrMiSav2K7Jw",
+      "url": "https://www.youtube.com/post/UgkxHGP7u5zI-wsWsrJajhkltrMiSav2K7Jw",
+      "kind": "text",
+      "text_preview": "**\"How can engineers contribute to openlab?\"** - this question has been asked a bit more recently. So I wrote up some examples and added a photo for each example. I'm on a journey to make openlab execute each thing in the best way we know how, so there are unlimited topics and unlimited improvements. Each gray box describes a challenge statement consisting of \"improve a thing, and share it.\" Each challenge is something I'm going to execute myself eventually though it maybe years from now before I reach it. \n\nThis is just four examples of discrete, clearly defined improvements among thousands that are possible. I mention this because you might see a possible improvement that is not listed. The ideal situation is that each expert in the audience has already generated an improvement on",
+      "published_label": "3 days ago",
+      "like_count_label": "49",
+      "attachment_video_id": null,
+      "poll_options": null
+    },
+    {
+      "post_id": "UgkxsNFU6_KNNFAqH2jhIPrJQ_jaXrsjW8MP",
+      "url": "https://www.youtube.com/post/UgkxsNFU6_KNNFAqH2jhIPrJQ_jaXrsjW8MP",
+      "kind": "text",
+      "text_preview": "Millions of people are buying gloves and getting ripped off. 🧤They tricked me too 😓until now. As I worked a hole in my Milwaukee gloves I realized I let the hardware store choose my gloves. I let the hardware store decide how to protect the 2 most important tools in my life. My hands. Why didn’t I learn?\n\nIn 2009 and after, i’ve worked in some of the world’s most advanced facilities 🏭 where gloves are worn and I had noticed the gloves there. The professionals buy gloves that don’t look like the ones I buy at Home Depot or Harbor Freight. Why? It’s because I never actually chose a glove. I let the retailer choose for me. Whatever I saw on the shelf that looked cool. We can do a lot better than that. 🤓🔧\n\n🚘Engine assembly takes place with woven gloves. They have better conformi",
+      "published_label": "6 days ago (edited)",
+      "like_count_label": "574",
+      "attachment_video_id": null,
+      "poll_options": null
+    },
+    {
+      "post_id": "UgkxN1-q401L3zyUuDhNAHXI3gb9OSr-qz22",
+      "url": "https://www.youtube.com/post/UgkxN1-q401L3zyUuDhNAHXI3gb9OSr-qz22",
+      "kind": "text",
+      "text_preview": "Why didn’t anyone tell me you need to clean your water heater?! Maybe that’s normal for Texans, where the water is nasty. I grew up in St. louis with the country’s 💦cleanest water💦 and the strongest crime. Honestly in the 90’s we drank the tap water daily and in 2010’s my friend told me his uncle predicted soon people will sell plastic bottles of water, like it’s coke. 🥤\n\nI was skeptical, but curious. 🧐 That sounded like the dumbest idea - buying water that’s otherwise free at the tap, and buying a bottle when you can keep one forever. A totally foreign concept to me. After moving to texas I realized taps are not to be trusted for drinking. \n\n[The Photos]\nFirst, the refurb of the old steel tank. I learned Ospho works nicely, and spreads far, as shown. \n\nThen, I had to flush the o",
+      "published_label": "3 weeks ago",
+      "like_count_label": "209",
+      "attachment_video_id": null,
+      "poll_options": null
+    },
+    {
+      "post_id": "UgkxQnz4qyMTdMrmIx5dPLv8MOXsELgjd6a0",
+      "url": "https://www.youtube.com/post/UgkxQnz4qyMTdMrmIx5dPLv8MOXsELgjd6a0",
+      "kind": "text",
+      "text_preview": "These two white chemicals are now part of OpenLab! I bought Titanium dioxide for epoxy coloring or tinting paints with white color. Then I had to buy the Hydrated Lime as I’ve learned it mixes with water, can be brushed onto your roof or bricks, and reflect light to reduce the summer cooling load on the HVAC system.\n\nI think it’s interesting the difference is almost imperceptible, and with the first photo you can take a guess at which is which. I’d say when spread out on wood, the TiO2 is just a tiny bit more concentrated “whiteness.” Recently I tested the Lime coating on a brick and a steel tank with those results shown also.\n\nThis year we have transitioned from La niña weather patterns to El Niño. Texas had a fairly mild summer last year and but this year we will probably see some extre",
+      "published_label": "4 weeks ago",
+      "like_count_label": "156",
+      "attachment_video_id": null,
+      "poll_options": null
+    },
+    {
+      "post_id": "UgkxwOmLcQcJh52QLkPj0lv_5dEhhUad2wKv",
+      "url": "https://www.youtube.com/post/UgkxwOmLcQcJh52QLkPj0lv_5dEhhUad2wKv",
+      "kind": "text",
+      "text_preview": "I never liked the red boxes, so this one will be silver and black. Since I had to disassemble it, I also improved the structure & sealing of gaps. This particular box houses many sensors and sensitive electronics so it gets special treatment. \n\nI filled dozens of gaps, eliminating airflow from the interior to exterior. I’m now anticipating the dessicant in this box to last 2x longer, and the humidity can be controlled more tightly. In 2018 I lost a $120 Bosch distance sensor that was stored indoors, never abused, and simply corroded its circuits away. Now, all the special digital equipment lives in here and by controlling the environment carefully in the box we have an insurance against losing investments like the Bosch sensor. (by the way shame on them for selling such a non robust de",
+      "published_label": "1 month ago",
+      "like_count_label": "246",
+      "attachment_video_id": null,
+      "poll_options": null
+    },
+    {
+      "post_id": "UgkxaxVuAxSybUam94LYE2oN8SdTTZZYMBXf",
+      "url": "https://www.youtube.com/post/UgkxaxVuAxSybUam94LYE2oN8SdTTZZYMBXf",
+      "kind": "text",
+      "text_preview": "📦Anyone Organizing? 📦 For daily life it’s hard to justify this fine attention to bins. But for running a business, I need decisions to last for 10 years (hopefully longer) and SCALE.\n\nSo, I put painstaking detail into these choices of containers for my business, then duplicated the choices for my home. The most important feature of these containers: they’ve been in production for ⏳10+ years ⏳without changes. Same model number, same shape. No distruptions when I need to expand. \n\nPlano. AkroMils. Sterilite. The manufacturers can be counted on 👷‍♂️to maintain their models and styles for years to come. So that means you’ll save hundreds of dollars 💰or hours in the long run. Consider adopting some of these choices instead of the random types of new containers that appear at your local ret",
+      "published_label": "1 month ago (edited)",
+      "like_count_label": "185",
+      "attachment_video_id": null,
+      "poll_options": null
+    },
+    {
+      "post_id": "UgkxiNb9LhgDfjWr7JIaWxYoxRv6rDAlz3MY",
+      "url": "https://www.youtube.com/post/UgkxiNb9LhgDfjWr7JIaWxYoxRv6rDAlz3MY",
+      "kind": "text",
+      "text_preview": "OpenLab continues to grow with documentation now covering the wash station. In modern times it’s very affordable to equip a space with good plumbing and this utility sink is absolutely crucial to this lab’s function! Even if you are building a lab in your garage, it pays off to dedicate some space and about $200 to set up a utility sink. \n\nIf you’re new here, I am on a journey to assemble the world’s first fully documented lab for multidisciplinary engineering. This is a lab where we can build anything we imagine, and there’s no cutting of corners like pretending that water isn’t important.\n\nFor the filter installation, I actually had a lot of fun learning about water purification and I’m thrilled we have affordable systems under $60 that can make extremely clean water. I also studied",
+      "published_label": "1 month ago (edited)",
+      "like_count_label": "341",
+      "attachment_video_id": null,
+      "poll_options": null
+    },
+    {
+      "post_id": "Ugkx8hzPatwqdlscxaiIp9hFUWOpWxAr46PH",
+      "url": "https://www.youtube.com/post/Ugkx8hzPatwqdlscxaiIp9hFUWOpWxAr46PH",
+      "kind": "text",
+      "text_preview": "Today I posted washCup.sldprt which is a printable utensil holder - the idea is to store the forks in the same container where I wash the forks. This way there's no loading utensils one by one. The whole container (or set of containers) come out of the dishwasher and go into use. \n\nGenerating the CAD model with an elegant feature tree was actually a challenge. When our parts have many holes or repeating features we want a repeated series and simple code behind the geometry, just like a software developer should make clean simple scripts with nested loops. Last year I bounced the idea off another engineer and we couldn't quite reach this result - I'm joyful to say this perforating pattern is worth copying if you're doing CAD models. The last photo shows the \"cutting tool\" which is the",
+      "published_label": "1 month ago (edited)",
+      "like_count_label": "175",
+      "attachment_video_id": null,
+      "poll_options": null
+    },
+    {
+      "post_id": "Ugkxfoo4am3KQXPicE_00GrZL_NX_W2j6Kzo",
+      "url": "https://www.youtube.com/post/Ugkxfoo4am3KQXPicE_00GrZL_NX_W2j6Kzo",
+      "kind": "text",
+      "text_preview": "🧰 This is tool box 6. 🧰 Five boxes are posted on OpenLab “tour” section and today I’ll publish this one.\n\nWith these photos published online, viewers can see a video and ask “what type of tool did he use to deburr that cut?” or “what was that handy thread measuring thing?” and find the answers all in these photos. I want all my processes to be repeatable, so the open source hardware has no gaps.\n\nIn the near future, we could ask Gemini “do I have all the tools I need to replace my barbecue smoker heating element?” and the AI can verify if I need to order something. I bet there are loads of opportunities we haven’t thought of. By the way, you’re a young person weighing a purchase: if the tool is not in openLab you probably don’t need it. That is, to reproduce all the types of projects",
+      "published_label": "1 month ago (edited)",
+      "like_count_label": "115",
+      "attachment_video_id": null,
+      "poll_options": null
+    }
+  ],
+  "home": {
+    "trailer_video_id": null,
+    "trailer_description": null,
+    "shelves": [
+      {
+        "title": "Videos",
+        "kind": "shelfRenderer",
+        "item_count": 12,
+        "item_video_ids": [
+          "W38vuFPvroc",
+          "2Hjf48S98fA",
+          "Hqk08dc2a_A",
+          "khiMEj0_Yjo",
+          "Rsz5TlAEIfg",
+          "YBW1i3gBt6Q",
+          "CvhiSP_6ESQ",
+          "n3na6mTBLvA",
+          "1-9dbWSUl7w",
+          "lcV9Wvxn6qk",
+          "ioUWBli_iFU",
+          "IFo5F24jhug"
+        ]
+      },
+      {
+        "title": "Shorts",
+        "kind": "reelShelfRenderer",
+        "item_count": 20,
+        "item_video_ids": [
+          "6MicwuqGZK8",
+          "c_dt0bApkew",
+          "xVU_APsonCs",
+          "xBJuF-nUzMw",
+          "p_7WszlMU1Y",
+          "URlsdUT5pbM",
+          "O2Bz0rRu1G0",
+          "q6WNwWep028",
+          "eoGECYnZVXU",
+          "BWtuNiOWTu8",
+          "Gkm9e2Zjagk",
+          "jD1rY0HmOVE",
+          "H98m8AEcGv8",
+          "G9iD48QH7SQ",
+          "pf1nGnrfeuw",
+          "cn3B2v2VpW0",
+          "r1mAapnXajs",
+          "M22f2x1WRCQ",
+          "NDG5pRY0kP8",
+          "uGHzZW9g1iA"
+        ]
+      },
+      {
+        "title": "Posts",
+        "kind": "shelfRenderer",
+        "item_count": 12,
+        "item_video_ids": []
+      }
+    ],
+    "featured_channels": []
+  }
+}
