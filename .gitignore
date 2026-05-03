@@ -1,0 +1,15 @@
+# Out-of-scope per CLAUDE.md
+scratch/
+skill-dev/
+
+# Internal scratch — manifests, slug rosters, etc.
+outputs/
+
+# Skill archives (separate distribution)
+*.skill
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+.vscode/
+.obsidian/
